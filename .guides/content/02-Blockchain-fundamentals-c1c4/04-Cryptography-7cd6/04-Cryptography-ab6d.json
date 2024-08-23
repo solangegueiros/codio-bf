@@ -1,0 +1,17 @@
+{
+	"id": "ab6d14d8-4b8a-49d8-aa3c-ce7486c35ec1",
+	"title": "04-Cryptography",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

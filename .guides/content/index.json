@@ -1,0 +1,19 @@
+{
+	"title": "Blockchain Fundamentals Project",
+	"theme": "light",
+	"scripts": [],
+	"lexikonTopic": "",
+	"suppressPageNumbering": true,
+	"useSubmitButtons": true,
+	"useMarkAsComplete": true,
+	"hideMenu": false,
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideSectionsToggle": false,
+	"hideBackToDashboard": false,
+	"protectLayout": false,
+	"order": [
+		"01-Blockchain-Introduction-f07d",
+		"02-Blockchain-fundamentals-c1c4"
+	]
+}
