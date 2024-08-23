@@ -4,7 +4,7 @@ Peer-to-peer (P2P) computing or networking is a distributed application architec
 
 The diagrams of Paul Baran, published in the text On distributed communications (BARAN, Paul \- 1964\) are one of the best ways to present distributed networks:  
 
-![On distributed communications](.guides/img/image3.png] 
+![On distributed communications](.guides/img/image3.png) 
 
 This is the basic concept of Blockchain: p2p, peer to peer or peer to peer networks, where communication can be carried out between any pair of computers.  
 Source: [Paul Baran \- Wikipedia](https://en.wikipedia.org/wiki/Paul\_Baran) 

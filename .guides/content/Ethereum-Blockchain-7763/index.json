@@ -1,0 +1,11 @@
+{
+	"id": "77630f20-d749-0c67-2a97-a78b0bc2b7f9",
+	"type": "chapter",
+	"title": "Ethereum Blockchain",
+	"order": [
+		"Introduction-to-Ethereum-and-Smart-Contracts-dea2",
+		"Smart-contracts-and-decentralized-applications--DApps--1292",
+		"Gas-and-its-role-in-Ethereum-c7a4",
+		"State-Machines-and-Ethereum-Virtual-Machine--EVM--463e"
+	]
+}
