@@ -3,7 +3,8 @@
 	"type": "chapter",
 	"title": "02-Blockchain fundamentals",
 	"order": [
-		"03-Blockchain-fundamentals-2f86",
-		"04-Cryptography-7cd6"
+		"Blockchain-fundamentals-2f86",
+		"04-Cryptography-7cd6",
+		"Game-Theory-b2f4"
 	]
 }

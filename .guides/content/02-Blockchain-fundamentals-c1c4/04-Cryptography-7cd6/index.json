@@ -4,8 +4,9 @@
 	"title": "04-Cryptography",
 	"order": [
 		"04-Cryptography-ab6d",
-		"04b-Hash-Function-9ace",
-		"04c-Cryptographic-keys-5e0c",
-		"Merkle-Tree-2d54"
+		"Hash-Function-9ace",
+		"Cryptographic-keys-5e0c",
+		"Merkle-Tree-2d54",
+		"Distributed-Networks-c826"
 	]
 }

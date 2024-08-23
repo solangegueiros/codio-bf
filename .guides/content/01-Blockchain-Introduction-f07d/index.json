@@ -3,7 +3,7 @@
 	"type": "chapter",
 	"title": "01-Blockchain Introduction",
 	"order": [
-		"01-Blockchain-Introduction-ec7f",
-		"02-Basic-structure-of-a-blockchain-d479"
+		"Blockchain-Introduction-ec7f",
+		"Basic-structure-of-a-blockchain-d479"
 	]
 }
