@@ -1,4 +1,3 @@
-# Sample content New Page
 ## Cryptography
 
 The provable method to establish trust in a transaction.
