@@ -4,8 +4,10 @@
 	"title": "Ethereum Blockchain",
 	"order": [
 		"Introduction-to-Ethereum-and-Smart-Contracts-dea2",
+		"Nick-Szabo-and-his-role-in-Smart-Contracts-history-d8ce",
 		"Smart-contracts-and-decentralized-applications--DApps--1292",
-		"Gas-and-its-role-in-Ethereum-c7a4",
-		"State-Machines-and-Ethereum-Virtual-Machine--EVM--463e"
+		"State-Machines-463e",
+		"Ethereum-Virtual-Machine--EVM--e6bf",
+		"Gas-and-its-role-in-Ethereum-c7a4"
 	]
 }

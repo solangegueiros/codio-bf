@@ -1,10 +1,11 @@
 {
 	"id": "c1c433e3-1db1-93e2-edce-dd6386a0e64d",
 	"type": "chapter",
-	"title": "02-Blockchain fundamentals",
+	"title": "Blockchain fundamentals",
 	"order": [
 		"Blockchain-fundamentals-2f86",
-		"04-Cryptography-7cd6",
-		"Game-Theory-b2f4"
+		"Cryptography-7cd6",
+		"Game-Theory-b2f4",
+		"Distributed-Networks-5b6f"
 	]
 }

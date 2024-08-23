@@ -13,9 +13,9 @@
 	"hideBackToDashboard": false,
 	"protectLayout": false,
 	"order": [
-		"01-Blockchain-Introduction-f07d",
-		"02-Blockchain-fundamentals-c1c4",
-		"Web-evolution-and-the-Decentralization-role-d7bb",
+		"What-is-Blockchain-f07d",
+		"Blockchain-fundamentals-c1c4",
+		"Web3-and-Decentralization-d7bb",
 		"Ethereum-Blockchain-7763"
 	]
 }

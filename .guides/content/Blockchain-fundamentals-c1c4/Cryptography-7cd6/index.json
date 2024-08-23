@@ -1,12 +1,11 @@
 {
 	"id": "7cd61987-d524-3331-bf08-7a48bfcfe6db",
 	"type": "section",
-	"title": "04-Cryptography",
+	"title": "Cryptography",
 	"order": [
-		"04-Cryptography-ab6d",
+		"Cryptography-ab6d",
 		"Hash-Function-9ace",
 		"Cryptographic-keys-5e0c",
-		"Merkle-Tree-2d54",
-		"Distributed-Networks-c826"
+		"Merkle-Tree-2d54"
 	]
 }
