@@ -1,0 +1,87 @@
+{
+	"type": "multiple-choice",
+	"taskId": "multiple-choice-2241849526",
+	"source": {
+		"name": "hash function 02",
+		"showName": false,
+		"instructions": "Which of the following best describes a hash function?",
+		"multipleResponse": false,
+		"isRandomized": true,
+		"answers": [
+			{
+				"_id": "dedca281-bb26-c90f-d744-1ef073673ac9",
+				"correct": true,
+				"answer": "An algorithm that maps variable-length data to fixed-length data"
+			},
+			{
+				"_id": "0806704d-7df6-c6f0-89e6-0b43f84a65c2",
+				"correct": false,
+				"answer": "A function that only works with prime numbers"
+			},
+			{
+				"_id": "10548aaf-0138-5aa6-38ed-9dc24c074856",
+				"correct": false,
+				"answer": "A method to compress large files"
+			},
+			{
+				"_id": "5394e11e-0f87-044a-7004-c97d4ab43c4d",
+				"correct": false,
+				"answer": "An algorithm that sorts data in ascending order"
+			}
+		],
+		"guidance": "A hash function is an algorithm that maps variable-length data to fixed-length data. This is its primary characteristic and function. It does not specifically work with prime numbers, is not used for file compression, and does not sort data. The key feature of a hash function is its ability to take input of any size and produce a fixed-size output, which is useful for indexing and quickly finding items in a data structure.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Attempts",
+			"passedFrom": 1
+		},
+		"maxAttemptsCount": 1,
+		"showExpectedAnswer": true,
+		"points": 1,
+		"incorrectPoints": 0,
+		"arePartialPointsAllowed": false,
+		"useMaximumScore": false,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				},
+				{
+					"name": "Content",
+					"value": "BFT"
+				},
+				{
+					"name": "Programming Language",
+					"value": "None"
+				},
+				{
+					"name": "Lesson",
+					"value": "Introduction to Blockchain and Ethereum"
+				},
+				{
+					"name": "Topic",
+					"value": "Cryptography, Hash Function"
+				},
+				{
+					"name": "Level",
+					"value": "Easy"
+				},
+				{
+					"name": "Type",
+					"value": "one correct answer"
+				},
+				{
+					"name": "SubTopic",
+					"value": "Hash Function"
+				}
+			],
+			"files": [],
+			"opened": []
+		},
+		"bloomsObjectiveLevel": "1",
+		"learningObjectives": "SWBAT define a hash function"
+	},
+	"linkedId": "6cec9559-bdec-451f-a962-c49eca42096e",
+	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
+	"version": 5
+}
