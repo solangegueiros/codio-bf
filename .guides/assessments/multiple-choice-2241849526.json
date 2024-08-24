@@ -60,19 +60,19 @@
 				},
 				{
 					"name": "Topic",
-					"value": "Cryptography"
+					"value": "Cryptography, Hash Function"
 				},
 				{
 					"name": "Level",
 					"value": "Easy"
 				},
 				{
-					"name": "Exam",
-					"value": "SG"
-				},
-				{
 					"name": "Type",
 					"value": "one correct answer"
+				},
+				{
+					"name": "SubTopic",
+					"value": "Hash Function"
 				}
 			],
 			"files": [],
@@ -83,5 +83,5 @@
 	},
 	"linkedId": "6cec9559-bdec-451f-a962-c49eca42096e",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 3
+	"version": 5
 }

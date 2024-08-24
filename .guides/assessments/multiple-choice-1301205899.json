@@ -76,10 +76,6 @@
 					"value": "Intermediate"
 				},
 				{
-					"name": "Exam",
-					"value": "SG"
-				},
-				{
 					"name": "Type",
 					"value": "multiple response"
 				}
@@ -92,5 +88,5 @@
 	},
 	"linkedId": "df594aec-d194-4181-bc6c-30c30eb19639",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 2
+	"version": 3
 }

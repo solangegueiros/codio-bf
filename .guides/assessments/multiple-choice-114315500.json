@@ -64,15 +64,11 @@
 				},
 				{
 					"name": "Topic",
-					"value": "Cryptography"
+					"value": "Distributed Networks"
 				},
 				{
 					"name": "Level",
 					"value": "Easy"
-				},
-				{
-					"name": "Exam",
-					"value": "SG"
 				},
 				{
 					"name": "Type",
@@ -87,5 +83,5 @@
 	},
 	"linkedId": "db3739dd-4a13-4640-aec0-749bc8b51fe6",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 0
+	"version": 1
 }

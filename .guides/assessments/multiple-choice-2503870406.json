@@ -59,15 +59,11 @@
 				},
 				{
 					"name": "Topic",
-					"value": "Cryptography"
+					"value": "Game Theory"
 				},
 				{
 					"name": "Level",
 					"value": "Easy"
-				},
-				{
-					"name": "Exam",
-					"value": "SG"
 				},
 				{
 					"name": "Type",
@@ -82,5 +78,5 @@
 	},
 	"linkedId": "1fb8959a-88af-46cb-a894-ef72784fb553",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 0
+	"version": 2
 }

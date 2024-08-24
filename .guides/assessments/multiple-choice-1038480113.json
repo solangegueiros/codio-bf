@@ -56,12 +56,12 @@
 					"value": "Intermediate"
 				},
 				{
-					"name": "Exam",
-					"value": "SG"
-				},
-				{
 					"name": "Type",
 					"value": "true or false"
+				},
+				{
+					"name": "SubTopic",
+					"value": "Merkle Tree"
 				}
 			],
 			"files": [],
@@ -72,5 +72,5 @@
 	},
 	"linkedId": "eaba3240-2aca-4f18-9c27-c2dcc2d37078",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 3
+	"version": 4
 }

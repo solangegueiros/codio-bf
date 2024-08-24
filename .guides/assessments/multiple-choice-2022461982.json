@@ -72,12 +72,12 @@
 					"value": "Easy"
 				},
 				{
-					"name": "Exam",
-					"value": "SG"
-				},
-				{
 					"name": "Type",
 					"value": "multiple response"
+				},
+				{
+					"name": "SubTopic",
+					"value": "Hash Function"
 				}
 			],
 			"files": [],
@@ -88,5 +88,5 @@
 	},
 	"linkedId": "a7abfa31-b247-49a2-b445-656f1f92d807",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 3
+	"version": 6
 }

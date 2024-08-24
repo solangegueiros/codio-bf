@@ -59,7 +59,7 @@
 				},
 				{
 					"name": "Topic",
-					"value": "Cryptography"
+					"value": "Consensus mechanisms"
 				},
 				{
 					"name": "Level",
@@ -82,5 +82,5 @@
 	},
 	"linkedId": "502ee2f6-9a90-4caf-a074-7b6d4d578b5a",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 0
+	"version": 2
 }

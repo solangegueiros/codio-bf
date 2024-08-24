@@ -2,7 +2,7 @@
 	"type": "multiple-choice",
 	"taskId": "multiple-choice-92371223",
 	"source": {
-		"name": "Understanding Proof of Authority Consensus",
+		"name": "Proof of Authority Consensus",
 		"showName": false,
 		"instructions": "Which of the following statements best describes the Proof of Authority (PoA) consensus mechanism in blockchain networks?",
 		"multipleResponse": false,
@@ -59,15 +59,11 @@
 				},
 				{
 					"name": "Topic",
-					"value": "Cryptography"
+					"value": "Consensus mechanisms"
 				},
 				{
 					"name": "Level",
 					"value": "Easy"
-				},
-				{
-					"name": "Exam",
-					"value": "SG"
 				},
 				{
 					"name": "Type",
@@ -82,5 +78,5 @@
 	},
 	"linkedId": "123f764f-7b61-4eec-a118-1d05680b7944",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 0
+	"version": 2
 }

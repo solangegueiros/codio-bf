@@ -59,15 +59,11 @@
 				},
 				{
 					"name": "Topic",
-					"value": "Cryptography"
+					"value": "Consensus mechanisms"
 				},
 				{
 					"name": "Level",
 					"value": "Easy"
-				},
-				{
-					"name": "Exam",
-					"value": "SG"
 				},
 				{
 					"name": "Type",
@@ -82,5 +78,5 @@
 	},
 	"linkedId": "b67733bc-144e-4bad-b89b-532f31917c53",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 0
+	"version": 2
 }
