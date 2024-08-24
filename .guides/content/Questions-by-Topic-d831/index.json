@@ -3,7 +3,6 @@
 	"type": "chapter",
 	"title": "Questions by Topic",
 	"order": [
-		"Final-Exam-Random-bd3d",
 		"Final-Exam-Random---What-is-Blockchain-4cbf",
 		"Final-Exam-Random---Blockchain-Structure-23b9",
 		"Final-Exam-Random---Cryptography---Hash-Function-2fb2",
@@ -16,6 +15,9 @@
 		"Final-Exam-Random---Ethereum-3a6b",
 		"Final-Exam-Random---Smart-contracts-1738",
 		"Final-Exam-Random---dApps-6410",
-		"Final-Exam-Random---EVM-023c"
+		"Final-Exam-Random---EVM-023c",
+		"Final-Exam-Random---All-01-d195",
+		"Final-Exam-Random---All-02-974d",
+		"Final-Exam-Random---All-03-8167"
 	]
 }

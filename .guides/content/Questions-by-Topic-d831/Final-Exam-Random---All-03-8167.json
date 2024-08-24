@@ -1,0 +1,17 @@
+{
+	"id": "8167baab-3241-8a6f-b24d-25dbdd2cd39f",
+	"title": "Final Exam Random - All 03",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
