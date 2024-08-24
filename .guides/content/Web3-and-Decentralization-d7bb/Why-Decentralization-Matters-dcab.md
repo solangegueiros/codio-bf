@@ -17,3 +17,4 @@ Decentralization promotes transparency. All transactions on the blockchain are v
 In a decentralized system, trust is not placed in a single authority but is distributed across the network. The protocols and consensus mechanisms of the blockchain ensure that all participants adhere to the rules, fostering a system of intrinsic trust. This decentralized trust model mitigates the risks associated with centralized control and enhances the reliability of the network.
 
 Decentralization is a core attribute that makes blockchain technology revolutionary. By distributing control across a network, it minimizes risks, enhances security, and fosters trust without needing a central authority. This principle underpins the technical architecture of blockchain and drives its application in various industries.
+

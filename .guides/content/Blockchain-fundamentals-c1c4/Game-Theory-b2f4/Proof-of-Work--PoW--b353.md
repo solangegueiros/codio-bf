@@ -17,3 +17,4 @@ Asymmetry
 
 * Requires a significant amount of computational effort to solve a puzzle or perform a certain task  
 * Verifying that the work has been done in a relatively simple and quick manner.
+

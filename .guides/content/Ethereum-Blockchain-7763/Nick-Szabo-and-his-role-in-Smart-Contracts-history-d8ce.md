@@ -16,3 +16,4 @@ Key aspects of Szabo’s smart contract concept:
 ### From Concept to Reality
 
 While Szabo’s initial proposal was ahead of its time, the technology needed to fully implement smart contracts didn’t exist in the 1990s. It wasn’t until the advent of blockchain technology, particularly with the launch of Ethereum in 2015, that smart contracts became a practical reality.
+

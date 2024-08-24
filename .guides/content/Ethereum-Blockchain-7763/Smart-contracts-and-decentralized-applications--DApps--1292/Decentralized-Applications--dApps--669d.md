@@ -18,3 +18,4 @@ Deterministic \- dApps perform the same function irrespective of the environment
 Turing complete \- dApps can perform any action given the required resources.
 
 Isolated \- dApps are executed in a virtual environment known as Ethereum Virtual Machine so that if the smart contract has a bug, it won’t hamper the normal functioning of the blockchain network.
+

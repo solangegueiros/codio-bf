@@ -22,3 +22,4 @@ Source: [Decentralized computing \- Wikipedia](https://en.wikipedia.org/wiki/Dec
 
 A network configuration where every participant can communicate with one another without going through a centralized point. Since there are multiple pathways for communication, the loss of any participant will not prevent communication. This is also known as peer-to-peer network as they're decentralized.  
 Source: [Distributed network \- Glossary | CSRC](https://csrc.nist.gov/glossary/term/distributed\_network)
+
