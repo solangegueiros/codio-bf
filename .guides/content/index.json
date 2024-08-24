@@ -13,9 +13,11 @@
 	"hideBackToDashboard": true,
 	"protectLayout": true,
 	"order": [
+		"Final-Exam-Random---All-01-d195",
+		"Final-Exam-Random---All-02-974d",
+		"Final-Exam-Random---All-03-8167",		
 		"Final-Exam-Random---What-is-Blockchain-4cbf",
 		"Final-Exam-Random---Blockchain-Structure-23b9",
-		"Questions-Templates-69ff",
 		"Final-Exam-Random---Cryptography---Hash-Function-2fb2",
 		"Final-Exam-Random---Cryptography---Public-key-and-Private-Keys-1f33",
 		"Final-Exam-Random---Cryptography---Merkle-Tree-389f",
@@ -26,9 +28,6 @@
 		"Final-Exam-Random---Ethereum-3a6b",
 		"Final-Exam-Random---Smart-contracts-1738",
 		"Final-Exam-Random---dApps-6410",
-		"Final-Exam-Random---EVM-023c",
-		"Blockchain-fundamentals-c1c4",
-		"Web3-and-Decentralization-d7bb",
-		"Ethereum-Blockchain-7763"
+		"Final-Exam-Random---EVM-023c"
 	]
 }
