@@ -1,0 +1,17 @@
+{
+	"id": "4f5bed7c-d8b2-da20-e8a7-6d1dee49a9a2",
+	"title": "Final Exam",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
