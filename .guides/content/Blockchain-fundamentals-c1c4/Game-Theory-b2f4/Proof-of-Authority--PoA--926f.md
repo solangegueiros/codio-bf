@@ -1,8 +1,8 @@
 ### Proof of Authority (PoA)
 
-Proof of Authority provides another alternative to PoW/PoS systems. It is a consensus algorithm suitable for private and permissioned blockchain which relies on a number of pre-chosen authoritative nodes called the validators. (Singh et al., 2020a)
+Proof of Authority provides another alternative to PoW and PoS systems. It is a consensus algorithm suitable for private and permissioned blockchains which relies on a number of pre-chosen authoritative nodes called the validators. (Singh et al., 2020a)
 
-Group of AUTHORITIES. These Authorities are the Validators check whether new transactions align with the network’s rules and ensure that the sender has adequate funds to complete the transaction  
-Specific Nodes are defined and authorized to create new blocks in a chain. It needs approval from most of the nodes for the block to be created
+Group of Authorities:  
+These authorities are the validators checking whether new transactions align with the network’s rules and ensure that the sender has adequate funds to complete the transaction. Specific nodes are defined and authorized to create new blocks in a chain. It needs approval from most of the nodes for the block to be created
 
-Used in permissioned Blockchains. private Ethereum networks and others.
+This is used in permissioned blockchains, private Ethereum networks, and others.
