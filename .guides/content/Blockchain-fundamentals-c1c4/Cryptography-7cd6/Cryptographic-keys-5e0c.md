@@ -27,4 +27,5 @@ Authentication:
 * Only the private key owner can sign/authorize transactions (digital signature).  
 * The public key confirms the sender's identity, verifying that the private key holder sent the message.
 
-Make sure to avoid giving away your private key, as users can decrypt your messages and sign transactions in your name.
+||| warning
+**Make sure to avoid giving away your private key, as users can decrypt your messages and sign transactions in your name.**

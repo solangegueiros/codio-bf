@@ -1,0 +1,17 @@
+{
+	"id": "5cfc8ae5-14cb-a667-f0cb-97324ffa550f",
+	"title": "Wallets and Testnets",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

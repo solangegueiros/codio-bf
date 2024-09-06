@@ -13,13 +13,12 @@
 	"hideBackToDashboard": false,
 	"protectLayout": false,
 	"order": [
-		"Final-Exam-All-Questions-4b7a",
-		"Final-Exam-Random-bd3d",
-		"Questions-Templates-69ff",
+		"Questions---Introduction-to-Blockchain-and-Ethereum-0331",
 		"Questions-by-Topic-d831",
 		"What-is-Blockchain-f07d",
 		"Blockchain-fundamentals-c1c4",
 		"Web3-and-Decentralization-d7bb",
-		"Ethereum-Blockchain-7763"
+		"Ethereum-Blockchain-7763",
+		"Wallets-and-Testnets-5cfc"
 	]
 }
