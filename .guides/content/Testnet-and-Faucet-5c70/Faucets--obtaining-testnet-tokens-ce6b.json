@@ -1,0 +1,17 @@
+{
+	"id": "ce6b25b8-0288-ab7f-974f-6ab35d396d0d",
+	"title": "Faucets: obtaining testnet tokens",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

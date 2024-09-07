@@ -1,0 +1,17 @@
+{
+	"id": "6f175002-1412-0f48-eb7d-a8a8ac91d147",
+	"title": "Transfers using an Ethereum wallet",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

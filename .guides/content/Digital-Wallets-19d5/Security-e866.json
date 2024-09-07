@@ -1,0 +1,17 @@
+{
+	"id": "e8666988-7676-51b3-c539-d2dc4b49b4bc",
+	"title": "Security",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

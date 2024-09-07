@@ -1,0 +1,17 @@
+{
+	"id": "189892bd-f177-8cf7-39bc-1bdcc9667da7",
+	"title": "Using block explorers",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

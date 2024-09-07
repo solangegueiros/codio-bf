@@ -1,0 +1,17 @@
+{
+	"id": "79be23fe-f772-618d-8e27-119f283d58fd",
+	"title": "Types of wallets",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

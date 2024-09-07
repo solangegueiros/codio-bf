@@ -1,0 +1,11 @@
+{
+	"id": "19d53252-4c42-89e2-c360-9a7403cf3f88",
+	"type": "chapter",
+	"title": "Digital Wallets",
+	"order": [
+		"Purpose-and-types-in-digital-wallets-e3c6",
+		"Cryptography-in-digital-wallets-a243",
+		"Types-of-wallets-79be",
+		"Security-e866"
+	]
+}
