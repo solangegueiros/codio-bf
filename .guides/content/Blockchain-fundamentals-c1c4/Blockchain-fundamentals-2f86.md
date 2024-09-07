@@ -7,4 +7,3 @@ Blockchain uses fundamentals from other areas already consolidated:
 * Game Theory
 
 Let's understand each one better.
-
