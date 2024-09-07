@@ -1,4 +1,7 @@
-# Blockchain fundamentals
+|||guidance
+## Blockchain fundamentals
+
+|||
 
 Blockchain uses fundamentals from other areas already consolidated:
 

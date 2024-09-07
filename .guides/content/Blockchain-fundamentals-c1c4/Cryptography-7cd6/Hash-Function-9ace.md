@@ -1,4 +1,7 @@
+|||guidance
 ### Hash Function
+
+|||
 
 Algorithm that maps variable-length data to fixed-length data.
 

@@ -1,4 +1,8 @@
+|||guidance
 ### Merkle Tree
+
+|||
+
 
 Fundamental part of Blockchain, it allows for efficiency and security in verifying a large mass of data to validate the integrity of the data content.
 
@@ -11,5 +15,4 @@ It contains a tree of summary information about a larger piece of data. Used to 
 According to Andreas M. Antonopoulos, in "The Bitcoin Protocol":  
 Merkle trees are used to "summarize" and store all the transactions in a block, producing an overall digital fingerprint of the entire set of transactions, providing a very efficient process to verify whether a transaction is included in a block.
 
-![Merkle tree](.guides/img/01/image2.png)  
-Image: [Wikipedia](https://commons.wikimedia.org/wiki/File:Bitcoin\_Block\_Data.png), license Creative Commons Attribution-Share-Alike 3.0 Unported
+![Merkle tree](.guides/img/01/image2.png "Merkle tree")*Image: [Wikipedia](https://commons.wikimedia.org/wiki/File:Bitcoin\_Block\_Data.png), license Creative Commons Attribution-Share-Alike 3.0 Unported*
