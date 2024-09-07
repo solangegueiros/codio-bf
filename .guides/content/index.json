@@ -13,9 +13,6 @@
 	"hideBackToDashboard": false,
 	"protectLayout": false,
 	"order": [
-		"What-is-Blockchain-f07d",
-		"Blockchain-fundamentals-c1c4",
-		"Web3-and-Decentralization-d7bb",
-		"Ethereum-Blockchain-7763"
+		"Web3-and-Decentralization-d7bb"
 	]
 }
