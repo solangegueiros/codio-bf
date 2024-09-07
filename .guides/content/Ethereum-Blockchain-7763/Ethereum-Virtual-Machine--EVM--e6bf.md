@@ -4,6 +4,6 @@ The Ethereum Virtual Machine (EVM) is a decentralized virtual environment that e
 
 The EVM enables developers to write decentralized applications in various programming languages (most notably Solidity) and ensures that smart contracts execute consistently across all nodes.
 
-![Ethereum Virtual Machine (EVM)](.guides/img/image6.png)  
+![Ethereum Virtual Machine (EVM)](.guides/img/01/image6.png)  
 Ethereum Virtual Machine (EVM)  
 Source: [https://ethereum.org/pt/developers/docs/evm/](https://ethereum.org/pt/developers/docs/evm/)

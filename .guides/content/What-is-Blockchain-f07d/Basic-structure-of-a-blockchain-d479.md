@@ -28,4 +28,4 @@ Transactions on blockchains are used for:
 
 This structure ensures that transactions become a permanent part of the blockchain. 
 
-![Blockchain = Chain of Blocks](.guides/img/image1.png)
+![Blockchain = Chain of Blocks](.guides/img/01/image1.png)
