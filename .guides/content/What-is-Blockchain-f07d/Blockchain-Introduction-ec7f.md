@@ -1,5 +1,3 @@
-# Blockchain Introduction
-
 ## What is Blockchain
 
 A blockchain is a distributed ledger that maintains a continuously growing list of ordered records, called "blocks", that are linked together and secured using cryptography.

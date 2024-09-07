@@ -11,7 +11,7 @@
 	"collapsedOnStart": false,
 	"hideSectionsToggle": false,
 	"hideBackToDashboard": false,
-	"protectLayout": false,
+	"protectLayout": true,
 	"order": [
 		"What-is-Blockchain-f07d",
 		"Blockchain-fundamentals-c1c4",
