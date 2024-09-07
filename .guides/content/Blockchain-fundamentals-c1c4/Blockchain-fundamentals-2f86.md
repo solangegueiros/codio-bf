@@ -1,7 +1,4 @@
-|||guidance
-## Blockchain fundamentals
-
-|||
+# Blockchain fundamentals
 
 Blockchain uses fundamentals from other areas already consolidated:
 
@@ -10,3 +7,4 @@ Blockchain uses fundamentals from other areas already consolidated:
 * Game Theory
 
 Let's understand each one better.
+
