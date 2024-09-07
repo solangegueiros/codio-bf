@@ -1,4 +1,9 @@
+|||guidance
 ### Consensus
+
+|||
+
+
 
 It is a mechanism to ensure that all parties agree that a certain state of the system is correct.  
 Consensus mechanisms are based on game theory.
@@ -18,4 +23,4 @@ Some consensus types used in Blockchains:
 * Proof of Work (PoW)  
 * Proof of Stake (PoS)  
 * Proof of Authority (PoA)
-* 
+ 

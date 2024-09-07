@@ -1,4 +1,9 @@
+|||guidance
 ### Proof of Work (PoW)
+
+|||
+
+
 
 Proof of Work is the consensus algorithm intended to provide incentives for responsible behavior for blockchain transactions.
 

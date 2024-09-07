@@ -1,4 +1,8 @@
+|||guidance
 ## Cryptography
+
+|||
+
 
 Root:  
 In Greek: kryptós, "hidden," and gráphein, "written."
@@ -24,5 +28,4 @@ Let's understand:
 * Hash function  
 * Cryptographic keys  
 * Public key and private key  
-* Merkle tree
-* 
+* Merkle tree 

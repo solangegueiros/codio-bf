@@ -1,4 +1,8 @@
+|||guidance
 ### Proof of Stake (PoS)
+
+|||
+
 
 Proof of Stake provides an alternative to PoW in the application of consensus algorithms and security of the blockchain.
 
