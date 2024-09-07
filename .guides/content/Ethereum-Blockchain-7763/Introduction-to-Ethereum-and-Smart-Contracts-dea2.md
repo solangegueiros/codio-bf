@@ -1,4 +1,8 @@
+|||guidance
 ## Introduction to Ethereum and Smart Contracts
+
+|||
+
 
 Imagine a digital world where contracts execute themselves, applications run without central servers, and financial transactions happen seamlessly without intermediaries. This is the vision of Ethereum, a platform that has revolutionized the blockchain space since its launch in 2015 by Vitalik Buterin and a group of co-founders. 
 

@@ -1,4 +1,8 @@
+|||guidance
 ## Nick Szabo and His Role in Smart Contracts History
+
+|||
+
 
 Nick Szabo, a computer scientist, legal scholar, and cryptographer, is widely recognized as the father of smart contracts. His groundbreaking work in the 1990s laid the foundation for what would become a crucial element of blockchain technology.
 
