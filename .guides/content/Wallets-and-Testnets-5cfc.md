@@ -230,26 +230,30 @@ Available as a browser extension and as a mobile app, MetaMask equips you with a
 To install MetaMask in your browser (using Chrome for the exercise), go to  
 [https://metamask.io/download/](https://metamask.io/download/) 
 
-* 
+Select the option to download the browser extension
 
-Select the option to download the browser extension  
-![](.guides/img/02/image1.png)Chrome Metamask Extension Highlighted
+![Chrome Metamask Extension Highlighted](.guides/img/02/image1.png "Chrome Metamask Extension Highlighted")*Chrome Metamask Extension Highlighted*
 
-Click on “Install Metamask for Chrome”.
+Click on "Install Metamask for Chrome".
 
-![](.guides/img/02/image2.png)
+<figure>
+    <img src=".guides/img/02/image2.png"
+         alt="Install Metamask for Chrome">
+    <figcaption>Install Metamask for Chrome</figcaption>
+</figure>
+
 
 You will be redirected to the Chrome browser Web Store, where you can add the extension to your browser  
-![](.guides/img/02/image3.png)Chrome Web Store
+![Metamask on Chrome Web Store](.guides/img/02/image3.png "Metamask on Chrome Web Store")*Metamask on Chrome Web Store*
 
-Click on “Add to Chrome”.
+Click on "Add to Chrome".
 
 You will need to Accept the MetaMask Permissions and Add the extension  
-![](.guides/img/02/image4.png)MetaMask Extension Permissions Popup
+![MetaMask Extension Permissions Popup](.guides/img/02/image4.png "MetaMask Extension Permissions Popup")*MetaMask Extension Permissions Popup*
 
 Once downloaded and installed, you will see the MetaMask Fox Logo in your extensions popup.
 
-![](.guides/img/02/image5.png)Metamask extension
+![Metamask extension installed](.guides/img/02/image5.png "Metamask extension installed")*Metamask extension installed*
 
 If you would like MetaMask to always be visible, click the Pin Icon to the left of the Kabab Button. This will make MetaMask easily accessible for the rest of the course. You can toggle this off if you want to revert it later.
 
@@ -264,7 +268,7 @@ clicking on “I agree to MetaMask’s Terms of Use”.
 If you already have some cryptocurrencies or tokens on mainnet, do NOT use the same wallet during the course or while learning.
 
 Click on the button “Create a new wallet”.  
-![](.guides/img/02/image6.png)Selecting Permissions and Creating a New Wallet
+![Selecting Permissions and Creating a New Wallet](.guides/img/02/image6.png "Selecting Permissions and Creating a New Wallet")*Selecting Permissions and Creating a New Wallet*
 
 ### Create a password for MetaMask
 
@@ -274,7 +278,7 @@ Click on “I understand that MetaMask cannot recover this password for me.”
 
 If you forget or lose your password, you can still recover your wallet using the mnemonic/backup phrase saved in the next steps.
 
-![](.guides/img/02/image7.png)Creating a password on Metamask
+![Creating a password on Metamask](.guides/img/02/image7.png "Creating a password on Metamask")*Creating a password on Metamask*
 
 ### Reveal your mnemonic/secret recovery phrase
 
@@ -284,15 +288,20 @@ Click on “Secure my wallet (recommended)”.
 
 Save your Mnemonic
 
-![](.guides/img/02/image8.png)Mnemonic reveal
+![Mnemonic reveal](.guides/img/02/image8.png "Mnemonic reveal")*Mnemonic reveal*
+
 
 **Record your Mnemonic phrase in a secret, safe, and dry place.**
 
 This is used to recover your account if you lose your password.
 
-**Attention:**  
+|||important
+## Attention
+
 **The seed phrase is the most important part of a wallet/account\!**  
 **If you lose your seed phrase, you can not recover your wallet anymore.**
+|||
+
 
 ### Where to save the secret recovery phrase
 
@@ -312,7 +321,7 @@ If someone asks for your recovery phrase, they are probably trying to steal your
 
 Write back some words on the next screen to confirm that you saved your secret recovery phrase correctly.
 
-![](.guides/img/02/image9.png)Wallet creation successful
+![Wallet creation successful](.guides/img/02/image9.png "Wallet creation successful")*Wallet creation successful*
 
 ## Securing your wallet: best practices
 
@@ -385,11 +394,11 @@ You can switch which blockchain (defaulting to mainnet Ethereum) you are on, inc
 
 1. Open your MetaMask Wallet by going to the Extensions tab on Chrome.
 
-![](.guides/img/02/image10]Account Overview screen and Mainnet Ethereum Selected
+![Account Overview screen and Mainnet Ethereum Selected](.guides/img/02/image10 "Account Overview screen and Mainnet Ethereum Selected"]*Account Overview screen and Mainnet Ethereum Selected*
 
 2. Click on the top left button and then click on the toggle button for **Show test networks**  
-   ![](.guides/img/02/image11.png) Top left button dropdown list  
-   
+   ![Top left button dropdown list](.guides/img/02/image11.png "Top left button dropdown list") *Top left button dropdown list*
+
 
 Since you are going to be interacting with smart contracts, you are going to use **Sepolia**.
 
@@ -418,22 +427,26 @@ Click “Connect wallet” in the top right corner so the faucet app can detect 
 Click on “I accept the Chainlink Foundation Terms of Service”.
 
 Select Metamask  
-![](.guides/img/02/image12.png)
+![Chainlink faucet - Terms of Service and Select wallet](.guides/img/02/image12.png "Chainlink faucet - Terms of Service and Select wallet")*Chainlink faucet - Terms of Service and Select wallet*
 
 On Metamask, a pop-up window will appear. 
 
-| ![](.guides/img/02/image13.png) Click on “Next”. | ![](.guides/img/02/image14.png) and “Confirm” in the next window |
-| :---- | :---- |
+![Chainlink Faucet - Metamask connection](.guides/img/02/image13.png "Chainlink Faucet - Metamask connection")*Chainlink Faucet - Metamask connection* 
+Click on “Next”.
 
-Chainlink Faucet \- Metamask connection
+![Chainlink Faucet - Metamask connection permissions](.guides/img/02/image14.png "Chainlink Faucet - Metamask connection permissions")*Chainlink Faucet - Metamask connection permissions*
+
+“Confirm” in the next window.
+
 
 After accepting the terms for using your metamask information, it will automatically populate the Wallet Address portions of the web form with your wallet.
 
 Select whether you’d like to receive Sepolia testnet ETH and/or Sepolia testnet LINK.
 
 For now, you will use only Sepolia ETH. However, you can also get the token LINK on Sepolia, which you can use in future modules.  
-![](.guides/img/02/image15.png)  
-Chainlink faucet with wallet connected and Sepolia tokens selected.
+
+![Chainlink faucet with wallet connected and Sepolia tokens selected](.guides/img/02/image15.png "Chainlink faucet with wallet connected and Sepolia tokens selected")  
+*Chainlink faucet with wallet connected and Sepolia tokens selected*
 
 Click on “Verify you’re human.”
 
@@ -444,7 +457,7 @@ This step is necessary to protect against spam requests.
 
 Click on “Continue with GitHub”.
 
-![](.guides/img/02/image16.png)Chainlink Faucet \- Verify you’re human and Continue with GitHub
+![Chainlink Faucet - Verify you’re human and Continue with GitHub](.guides/img/02/image16.png "Chainlink Faucet - Verify you’re human and Continue with GitHub")*Chainlink Faucet \- Verify you’re human and Continue with GitHub*
 
 Click “Get tokens”. 
 
@@ -452,8 +465,8 @@ The tokens will be transferred from the faucet to the Metamask wallet address yo
 
 The final result should look like the screenshot below.
 
-![](.guides/img/02/image17.png)  
-Chainlink Faucet \- Tokens received with success 
+![Chainlink Faucet - Tokens received with success](.guides/img/02/image17.png "Chainlink Faucet - Tokens received with success")  
+*Chainlink Faucet \- Tokens received with success *
 
 Now you have SepoliaETH in your wallet\!
 
@@ -473,10 +486,11 @@ A block explorer can be defined as a “window” into the blockchain, enabling 
 
 A block explorer's most notable elements are a search field, information on the latest blocks, and recent transactions.
 
-![](.guides/img/02/image18.png)  
-Etherscan \- search field
+![Etherscan - search field](.guides/img/02/image18.png "Etherscan - search field")*Etherscan \- search field*
 
-![](.guides/img/02/image19.png)Etherscan \- latest blocks and recent transactions
+
+![Etherscan - latest blocks and recent transactions](.guides/img/02/image19.png "Etherscan - latest blocks and recent transactions")*Etherscan \- latest blocks and recent transactions*
+
 
 ## What you can do using a block explorer
 
@@ -512,8 +526,8 @@ Some block explorers allow you to connect your wallet and send transactions by c
 
 On Metamask, copy your wallet address.
 
-![](.guides/img/02/image20]  
-Metamask \- Copy wallet address
+![Metamask - Copy wallet address](.guides/img/02/image20 "Metamask - Copy wallet address"]  
+*Metamask \- Copy wallet address*
 
 Go to [https://sepolia.etherscan.io/](https://sepolia.etherscan.io/) 
 
@@ -521,13 +535,13 @@ In the search field, paste the wallet address copied from your Metamask account 
 
 For example, let's check the address 0xB2fbcc0219442945d55f62150C6a3fA0E4D79980
 
-![](.guides/img/02/image21.png)
+![Search for address 0xB2fbcc0219442945d55f62150C6a3fA0E4D79980 on Etherscan](.guides/img/02/image21.png "Search for address 0xB2fbcc0219442945d55f62150C6a3fA0E4D79980 on Etherscan")*Search for address 0xB2fbcc0219442945d55f62150C6a3fA0E4D79980 on Etherscan*
 
 This is the result  
 [https://sepolia.etherscan.io/address/0xb2fbcc0219442945d55f62150c6a3fa0e4d79980](https://sepolia.etherscan.io/address/0xb2fbcc0219442945d55f62150c6a3fa0e4d79980). 
 
-![](.guides/img/02/image22.png)  
-Sepolia Etherscan \- address 0xB2fbcc0219442945d55f62150C6a3fA0E4D79980
+![Sepolia Etherscan - address 0xB2fbcc0219442945d55f62150C6a3fA0E4D79980](.guides/img/02/image22.png "Sepolia Etherscan - address 0xB2fbcc0219442945d55f62150C6a3fA0E4D79980")  
+*Sepolia Etherscan \- address 0xB2fbcc0219442945d55f62150C6a3fA0E4D79980*
 
 At the window on the left, you can see that this account has 0.1 ETH and 25 LINK.
 
@@ -537,13 +551,13 @@ The “Transactions” tab shows a transaction in which ETH was transferred.
 
 [https://sepolia.etherscan.io/tx/0xfed56d015091edb476a630763170f71fd15bea8f5dfba0d4b32e1f355a44c1b6.png)(https://sepolia.etherscan.io/tx/0xfed56d015091edb476a630763170f71fd15bea8f5dfba0d4b32e1f355a44c1b6) 
 
-![](.guides/img/02/image24.png)
+![ETH transfer transaction](.guides/img/02/image24.png "ETH transfer transaction")*ETH transfer transaction*
 
 In the “Token Transfer (ERC-20)”, it is possible to check the transaction where the token LINK was transferred.
 
 [https://sepolia.etherscan.io/tx/0xc1c0b580f78bc8657a158671b3aad79506c40843461cae242312bdc1fff034fb](https://sepolia.etherscan.io/tx/0xc1c0b580f78bc8657a158671b3aad79506c40843461cae242312bdc1fff034fb)
 
-![](.guides/img/02/image25.png)
+![ETH token transfer (ERC-20) transaction](.guides/img/02/image25.png "ETH token transfer (ERC-20) transaction")*ETH token transfer (ERC-20) transaction*
 
 # Use a wallet to interact with the Ethereum network
 
@@ -551,19 +565,19 @@ In the “Token Transfer (ERC-20)”, it is possible to check the transaction wh
 
 You can add another address to your wallet by highlighting the down carrot.
 
-![](.guides/img/02/image26.png)
+![wallet list options](.guides/img/02/image26.png "wallet list options")*wallet list options*
 
 Open the “Account1” dropdown menu to show more options.
 
 Select the Add Account button.
 
-![](.guides/img/02/image27.png)
+![Add Account or Hardware Wallet button](.guides/img/02/image27.png "Add Account or Hardware Wallet button")*Add Account or Hardware Wallet button*
 
 Add Account or Hardware Wallet button.
 
 Select "Add a new account."
 
-![](.guides/img/02/image28.png)
+![Add a new account](.guides/img/02/image28.png "Add a new account")*Add a new account*
 
 Add account confirmation
 
@@ -582,7 +596,7 @@ If you don't have it, go to the topic lesson **Faucets: obtaining testnet tokens
 ### Send 0.00001 SepoliaETH from Account 1 to Account 2
 
 In your MetaMask extension, you can select the Send button to initiate a transaction.  
-![](.guides/img/02/image29.png)
+![Send button on Metamask](.guides/img/02/image29.png "Send button on Metamask")*Send button on Metamask*
 
 #### MetaMask browser popup
 
@@ -590,30 +604,31 @@ After selecting Send, you will be asked the public address of the account to whi
 
 For this exercise, select the 2nd account created (or the one that doesn't have tokens) to receive the test tokens.
 
-![](.guides/img/02/image30]Example Transaction Builder Screen
+![Send Transaction Builder Screen](.guides/img/02/image30 "Send Transaction Builder Screen"]*Send Transaction Builder Screen*
 
 You will then be moved to a confirmation screen that has several useful pieces of information: the asset you are trying to send (Token, NFT, etc.), the amount, and the estimated transaction fee.
 
 After entering an amount of SepoliaETH to send to your 2nd wallet, you will see a confirmation screen that shows the amount you are sending, the estimated fee, and a confirmation button. Upon clicking this button, you will initiate the transaction.
 
-![](.guides/img/02/image31.png)Confirmation Screen
+![Send Transaction Confirmation Screen](.guides/img/02/image31.png "Send Transaction Confirmation Screen")*Send Transaction Confirmation Screen*
 
 While the transaction is reaching finality, you can monitor it in your transaction history at the bottom of your MetaMask Extension.
 
-![](.guides/img/02/image32.png)Pending Transaction History
+![Metamask - Pending Transaction History](.guides/img/02/image32.png "Metamask - Pending Transaction History")*Metamask - Pending Transaction History*
 
 Once the transaction is complete, you can view more information in your MetaMask extension by selecting the transaction.
 
-![](.guides/img/02/image33.png)Confirmed Transaction
+![Metamask - Confirmed Transaction](.guides/img/02/image33.png "Metamask - Confirmed Transaction")*Metamask - Confirmed Transaction*
 
-![](.guides/img/02/image34.png)Transaction details
+![Metamask - Transaction details](.guides/img/02/image34.png "Metamask - Transaction details")*Metamask - Transaction details*
 
 ## Using block explorers to check accounts and transactions
 
 You can view the transaction on the block explorer like you did with the faucet transactions.
 
 Click the transaction and use the button “View on block explorer” on the details screen.  
-![](.guides/img/02/image35.png)Etherscan Record of the transaction
+![Etherscan Record of the transaction](.guides/img/02/image35.png "Etherscan Record of the transaction")*Etherscan Record of the transaction*
 
 You can confirm in our second account that they received the sent value of the tokens  
-![](.guides/img/02/image36.png)2nd wallet confirmation of tokens
+![2nd wallet confirmation of tokens](.guides/img/02/image36.png "2nd wallet confirmation of tokens")*2nd wallet confirmation of tokens*
+
