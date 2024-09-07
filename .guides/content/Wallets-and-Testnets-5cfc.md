@@ -545,7 +545,7 @@ This is the result
 
 At the window on the left, you can see that this account has 0.1 ETH and 25 LINK.
 
-![](.guides/img/02/image23.png)Sepolia Etherscan \- Token balances
+![Sepolia Etherscan - Token balances](.guides/img/02/image23.png "Sepolia Etherscan - Token balances")*Sepolia Etherscan \- Token balances*
 
 The “Transactions” tab shows a transaction in which ETH was transferred.
 

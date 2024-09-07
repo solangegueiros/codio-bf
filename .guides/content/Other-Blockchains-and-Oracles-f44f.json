@@ -1,0 +1,17 @@
+{
+	"id": "f44fe7ae-b5b3-9b5e-d8c6-59ac57300040",
+	"title": "Other Blockchains and Oracles",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
