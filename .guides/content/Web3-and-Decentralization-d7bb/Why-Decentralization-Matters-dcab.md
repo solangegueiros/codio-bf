@@ -1,4 +1,8 @@
+|||guidance
 ### Why Decentralization Matters
+
+|||
+
 
 #### No Single Point of Failure
 
