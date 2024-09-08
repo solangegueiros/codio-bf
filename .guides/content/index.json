@@ -13,6 +13,8 @@
 	"hideBackToDashboard": false,
 	"protectLayout": true,
 	"order": [
-		"Testnet-and-Faucet-5c70"
+		"Testnet-5c70",
+		"Faucets-e39f",
+		"Block-explorers-5bdc"
 	]
 }
