@@ -1,0 +1,22 @@
+{
+	"id": "a7bdef2a-cbb0-b410-b11b-e05d3b74a386",
+	"title": "Remix IDE",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "https://{{domain8080}}",
+			"panel": 1,
+			"action": "open"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "2-panels-guides-left"
+}
