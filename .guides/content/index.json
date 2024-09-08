@@ -3,23 +3,16 @@
 	"theme": "light",
 	"scripts": [],
 	"lexikonTopic": "",
-	"suppressPageNumbering": true,
-	"useSubmitButtons": true,
+	"suppressPageNumbering": false,
+	"useSubmitButtons": false,
 	"useMarkAsComplete": true,
-	"hideMenu": false,
+	"hideMenu": true,
 	"allowGuideClose": false,
 	"collapsedOnStart": false,
 	"hideSectionsToggle": false,
 	"hideBackToDashboard": false,
-	"protectLayout": false,
+	"protectLayout": true,
 	"order": [
-		"Digital-Wallets-19d5",
-		"Install-Metamask-7545",
-		"Testnet-and-Faucet-5c70",
-		"Using-an-Ethereum-wallet-1430",
-		"Wallets-and-Testnets-5cfc",
-		"Introduction-to-Solidity-3bca",
-		"Tokenized-Assets-332b",
-		"Other-Blockchains-and-Oracles-f44f"
+		"Testnet-and-Faucet-5c70"
 	]
 }

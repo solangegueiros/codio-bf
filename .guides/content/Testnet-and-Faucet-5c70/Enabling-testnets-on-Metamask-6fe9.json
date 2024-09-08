@@ -1,7 +1,12 @@
 {
-	"id": "e3c60e15-b450-9623-695a-7fb947698942",
-	"title": "Purpose and types in digital wallets",
-	"files": [],
+	"id": "6fe99d6c-69f7-6f4f-587a-4faf7584e630",
+	"title": "Enabling testnets on Metamask",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
 	"layout": "1-panel",
 	"path": [],
 	"type": "page",
