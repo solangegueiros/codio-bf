@@ -1,0 +1,14 @@
+{
+	"id": "2eee2a4f-c1e9-d769-add9-ff52aed542eb",
+	"type": "section",
+	"title": "Types of wallets",
+	"order": [
+		"Wallets-groups-79be",
+		"Software-wallet-4b15",
+		"Hardware-wallet-d6e5",
+		"Paper-Wallet-39e1",
+		"Types-of-wallets-dcce",
+		"Cold-wallet-e6ef",
+		"Multisig-wallet-bf03"
+	]
+}

@@ -1,7 +1,12 @@
 {
-	"id": "e3c60e15-b450-9623-695a-7fb947698942",
-	"title": "Purpose and types in digital wallets",
-	"files": [],
+	"id": "d6e5e5a2-d792-8390-43d2-26f32360ce5f",
+	"title": "Hardware wallet",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
 	"layout": "1-panel",
 	"path": [],
 	"type": "page",

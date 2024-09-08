@@ -1,12 +1,7 @@
 {
-	"id": "f44fe7ae-b5b3-9b5e-d8c6-59ac57300040",
-	"title": "Other Blockchains and Oracles",
-	"files": [
-		{
-			"path": "#tabs",
-			"action": "close"
-		}
-	],
+	"id": "d80fe8d4-1431-eaa9-bbe6-0dcf62a4eec2",
+	"title": "Purpose of digital wallets",
+	"files": [],
 	"layout": "1-panel",
 	"path": [],
 	"type": "page",

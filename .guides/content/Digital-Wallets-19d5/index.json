@@ -3,9 +3,11 @@
 	"type": "chapter",
 	"title": "Digital Wallets",
 	"order": [
-		"Purpose-and-types-in-digital-wallets-e3c6",
-		"Cryptography-in-digital-wallets-a243",
-		"Types-of-wallets-79be",
+		"Definition-e3c6",
+		"Purpose-of-digital-wallets-d80f",
+		"Cryptography-in-digital-wallets-52b4",
+		"Crypto-vs-bank-account-5ac5",
+		"Types-of-wallets-2eee",
 		"Security-e866"
 	]
 }

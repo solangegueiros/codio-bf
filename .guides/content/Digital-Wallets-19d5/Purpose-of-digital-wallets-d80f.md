@@ -1,15 +1,9 @@
 |||guidance
 # Purpose and types of digital wallets
 
+## Definition and purpose of digital wallets
 |||
 
-People rely on wallets to keep their valuables secure daily, from money to identification. A digital wallet serves a similar purpose in the digital world. It allows us to store various assets, such as crypto assets (digital money), our identity (represented by non-fungible tokens), membership cards, digital certificates, and more.
-
-## Definition and purpose of digital wallets
-
-A digital or crypto wallet is a key manager that allows you to manage your cryptocurrencies. You can check the balance and store, receive, or transfer crypto. Furthermore, they allow you to sign messages, proving that you own an address associated with your wallet. The most common are computer or mobile applications.
-
-Wallets are applications that give you control over your account. “Like your physical wallet, it contains everything you need to prove your identity and handle your assets. Your wallet allows you to sign in to applications, read your balance, send transactions, and verify your identity.” (Ethereum wallets | ethereum.org. https://ethereum.org/ta/wallets/)
 
 Most people use digital wallets to handle their digital assets and identity.
 
