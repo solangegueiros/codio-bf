@@ -5,8 +5,6 @@
 |||
 
 
-# Smart Contract Languages
-
 [Smart contracts](https://chain.link/education/smart-contracts) are computer programs deployed and executed on a [blockchain](https://chain.link/education-hub/blockchain), operating autonomously once triggered. Once deployed, these contracts are immutable, meaning their code cannot be altered. They function without intermediaries, automatically executing predefined actions when called, making them highly reliable for decentralized applications (dApps).
 
 

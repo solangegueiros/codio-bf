@@ -34,10 +34,3 @@ You will see a list of all the public and external functions, events, and state 
 Use GetInfo and SetInfo functions like when you deployed your first smart contract.
 
 ![](.guides/img/03/image40.png)
-
-Pinning smart contracts
-
-If you “pin” the Register when you close the Remix session and return, the address will be saved, and you will find the smart contract again in the “Pinned Contracts” section.
-
-![](.guides/img/03/image41.png)
-

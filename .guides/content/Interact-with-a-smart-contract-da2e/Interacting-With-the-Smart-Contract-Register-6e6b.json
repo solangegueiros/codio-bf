@@ -1,0 +1,17 @@
+{
+	"id": "6e6bee67-0236-7584-8bbc-d46a2bfd6bd4",
+	"title": "Interacting With the Smart Contract Register",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

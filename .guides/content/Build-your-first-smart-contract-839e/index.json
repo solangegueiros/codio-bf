@@ -3,8 +3,13 @@
 	"type": "chapter",
 	"title": "Build your first smart contract",
 	"order": [
-		"How-developers-and-non-developers-can-create-a-basic-smart-contract-2134",
+		"Your-first-smart-contract-2134",
+		"How-developers-and-non-developers-can-create-a-basic-smart-contract-fb7f",
+		"Create-Your-First-Smart-Contract-8710",
 		"Solidity-concepts-9159",
-		"Compiling-and-deploying-smart-contracts-bfaf"
+		"Compiling-Your-Smart-Contract-bfaf",
+		"Wallet-Connected-bbbc",
+		"Deploying-the-Smart-Contract-6722",
+		"Smart-contract---block-explorer-f456"
 	]
 }

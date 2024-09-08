@@ -1,0 +1,17 @@
+{
+	"id": "fb7f44d3-aeb2-9bd9-1c8d-bdfac1a456ce",
+	"title": "How developers and non-developers can create a basic smart contract",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

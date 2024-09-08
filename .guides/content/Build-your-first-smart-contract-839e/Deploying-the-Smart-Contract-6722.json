@@ -1,0 +1,17 @@
+{
+	"id": "67225325-cdf7-935f-4615-11a8e05c5ec6",
+	"title": "Deploying the Smart Contract",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

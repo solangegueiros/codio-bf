@@ -1,0 +1,17 @@
+{
+	"id": "97db3369-27a7-3fce-f3e4-c4b45388cd46",
+	"title": "GetInfo",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

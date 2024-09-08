@@ -1,0 +1,17 @@
+{
+	"id": "04ffc970-6244-2341-eea6-0dcea0becc30",
+	"title": "Using Remix IDE",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

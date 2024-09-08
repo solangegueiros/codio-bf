@@ -1,0 +1,17 @@
+{
+	"id": "88012c86-490e-fabb-9e09-48f7d519c06d",
+	"title": "SetInfo",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

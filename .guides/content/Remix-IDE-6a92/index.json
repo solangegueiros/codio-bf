@@ -3,8 +3,9 @@
 	"type": "chapter",
 	"title": "Remix IDE",
 	"order": [
-		"How-developers-and-non-developers-can-interact-with-a-Blockchain-04ff",
-		"What-is-the-Remix-IDE-916f",
+		"Using-Remix-IDE-04ff",
+		"How-developers-and-non-developers-can-interact-with-a-Blockchain-f786",
+		"Remix-IDE-916f",
 		"Configuring-Remix-98d0",
 		"Connecting-Remix-with-your-wallet-bbd5"
 	]
