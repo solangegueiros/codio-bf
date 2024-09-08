@@ -13,7 +13,6 @@
 	"hideBackToDashboard": false,
 	"protectLayout": true,
 	"order": [
-		"Other-Blockchains-and-Oracles-f44f",
 		"Oracles-Concepts-e42d",
 		"Chainlink-Services-5cf1"
 	]
