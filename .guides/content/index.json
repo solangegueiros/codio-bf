@@ -13,8 +13,8 @@
 	"hideBackToDashboard": false,
 	"protectLayout": true,
 	"order": [
-		"Introduction-to-Solidity-3bca",
-		"Tokenized-Assets-332b",
-		"Other-Blockchains-and-Oracles-f44f"
+		"Other-Blockchains-and-Oracles-f44f",
+		"Oracles-Concepts-e42d",
+		"Chainlink-Services-5cf1"
 	]
 }
