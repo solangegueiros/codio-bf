@@ -19,7 +19,11 @@ Anyone who knows the private key is able to prove they own the cryptocurrency on
 
 The private key gives access to your cryptocurrencies, regardless of which wallet you use. So, even if your computer or smartphone gets compromised, you can still access your funds on another device if you have the corresponding private key (or seed phrase).
 
+
+|||warning
 **Never share your private keys or a mnemonic phrase. Someone with your private key can perform transactions on your behalf, including spending your tokens.**
+|||
+
 
 ### Address
 
@@ -41,7 +45,11 @@ If you lose your wallet, you can use the mnemonic and set it up again in another
 
 You can even use the same mnemonic in different wallets.
 
-**Attention: the mnemonic is the most important part of a wallet\!**
+|||warning
+## Attention
+
+**The mnemonic is the most important part of a wallet\!**
+|||
 
 If you forgot or lost your mnemonic, you will have no backup of your wallet.
 
