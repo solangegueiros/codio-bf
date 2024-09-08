@@ -1,0 +1,17 @@
+{
+	"id": "a022b70f-668e-3bb1-4eed-23fa297fe1be",
+	"title": "ERC-721 - Smart Contract Definition",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

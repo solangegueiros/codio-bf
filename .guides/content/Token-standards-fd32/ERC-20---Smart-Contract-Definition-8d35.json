@@ -1,0 +1,17 @@
+{
+	"id": "8d357400-feb3-e86e-ca96-6523e63bb18c",
+	"title": "ERC-20 - Smart Contract Definition",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
