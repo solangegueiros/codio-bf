@@ -13,8 +13,9 @@
 	"hideBackToDashboard": false,
 	"protectLayout": true,
 	"order": [
-		"Introduction-to-Solidity-3bca",
-		"Tokenized-Assets-332b",
-		"Other-Blockchains-and-Oracles-f44f"
+		"Other-Blockchains-and-Oracles-f44f",
+		"Blockchain-Use-Cases-c781",
+		"Oracle-Use-Cases-b6fc",
+		"Interoperability-Use-Cases-cdc3"
 	]
 }

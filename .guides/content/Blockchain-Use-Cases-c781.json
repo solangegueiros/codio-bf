@@ -1,0 +1,17 @@
+{
+	"id": "c781437e-508a-791f-a1b0-2b5441b019d0",
+	"title": "Blockchain Use Cases",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
