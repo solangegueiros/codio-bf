@@ -1,0 +1,17 @@
+{
+	"id": "91590b00-67a9-75dc-bc16-6cb77230221c",
+	"title": "Solidity concepts",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

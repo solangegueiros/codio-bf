@@ -1,0 +1,17 @@
+{
+	"id": "4aa462d5-e1cc-ecc1-848f-77a8d16d4d56",
+	"title": "Smart Contract Languages on Ethereum",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

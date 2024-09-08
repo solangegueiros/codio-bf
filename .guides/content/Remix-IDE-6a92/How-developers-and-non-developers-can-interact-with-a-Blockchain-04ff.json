@@ -1,0 +1,17 @@
+{
+	"id": "04ffc970-6244-2341-eea6-0dcea0becc30",
+	"title": "How developers and non-developers can interact with a Blockchain",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

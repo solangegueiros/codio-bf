@@ -1,0 +1,10 @@
+{
+	"id": "da2e985d-daa6-7b51-7378-d4248b09796b",
+	"type": "chapter",
+	"title": "Interact with a smart contract",
+	"order": [
+		"Interact-with-smart-contracts-afb6",
+		"What-is-ABI-cbea",
+		"Interact-with-already-published-smart-contracts-f21b"
+	]
+}

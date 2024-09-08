@@ -13,6 +13,10 @@
 	"hideBackToDashboard": false,
 	"protectLayout": true,
 	"order": [
-		"ALL---Introduction-to-Solidity-52c1"
+		"ALL---Introduction-to-Solidity-52c1",
+		"Smart-Contract-Language-5a92",
+		"Remix-IDE-6a92",
+		"Build-your-first-smart-contract-839e",
+		"Interact-with-a-smart-contract-da2e"
 	]
 }

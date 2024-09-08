@@ -1,0 +1,10 @@
+{
+	"id": "5a92e941-b58b-0876-9a46-129053f44cd1",
+	"type": "chapter",
+	"title": "Smart Contract Language",
+	"order": [
+		"Programming-language-concepts-aea0",
+		"Smart-Contract-Languages-on-Ethereum-4aa4",
+		"Solidity-language-d0c2"
+	]
+}

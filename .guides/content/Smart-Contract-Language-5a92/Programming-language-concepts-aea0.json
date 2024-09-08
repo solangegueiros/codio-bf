@@ -1,0 +1,17 @@
+{
+	"id": "aea0c79c-7d2e-8565-fe55-a926534110fb",
+	"title": "Programming language concepts",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

@@ -1,0 +1,17 @@
+{
+	"id": "98d07aae-c92c-89e7-8de4-b948b75abe5a",
+	"title": "Configuring Remix",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

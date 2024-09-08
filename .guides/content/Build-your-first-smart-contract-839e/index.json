@@ -1,0 +1,10 @@
+{
+	"id": "839e7211-4621-982a-885d-0f33d02d29c1",
+	"type": "chapter",
+	"title": "Build your first smart contract",
+	"order": [
+		"How-developers-and-non-developers-can-create-a-basic-smart-contract-2134",
+		"Solidity-concepts-9159",
+		"Compiling-and-deploying-smart-contracts-bfaf"
+	]
+}

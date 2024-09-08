@@ -1,0 +1,17 @@
+{
+	"id": "d0c2c751-fdd1-6792-dc06-3d15361104cf",
+	"title": "Solidity language",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
