@@ -13,8 +13,6 @@
 	"hideBackToDashboard": false,
 	"protectLayout": true,
 	"order": [
-		"Introduction-to-Solidity-3bca",
-		"Tokenized-Assets-332b",
-		"Other-Blockchains-and-Oracles-f44f"
+		"Tokenized-Assets-332b"
 	]
 }
