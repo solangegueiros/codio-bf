@@ -1,0 +1,17 @@
+{
+	"id": "c049fcd4-30cf-e2a9-506c-47a792d8c8f1",
+	"title": "NFTs use cases",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

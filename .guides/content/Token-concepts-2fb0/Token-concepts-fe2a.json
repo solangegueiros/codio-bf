@@ -1,0 +1,17 @@
+{
+	"id": "fe2a6176-ebf9-1dbc-2683-9cd1dad23acb",
+	"title": "Token concepts",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

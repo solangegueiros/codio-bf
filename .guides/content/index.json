@@ -13,6 +13,10 @@
 	"hideBackToDashboard": false,
 	"protectLayout": true,
 	"order": [
-		"Tokenized-Assets-332b"
+		"Tokenized-Assets-332b",
+		"Token-concepts-2fb0",
+		"Token-standards-fd32",
+		"Token-interactions-1fa4",
+		"Use-Cases-db04"
 	]
 }

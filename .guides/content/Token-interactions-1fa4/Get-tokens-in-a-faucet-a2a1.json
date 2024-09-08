@@ -1,0 +1,17 @@
+{
+	"id": "a2a1988e-c1e2-0cbe-9633-ba43dc62234a",
+	"title": "Get tokens in a faucet",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

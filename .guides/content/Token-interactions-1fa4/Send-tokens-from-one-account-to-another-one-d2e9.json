@@ -1,0 +1,17 @@
+{
+	"id": "d2e963b5-8321-da7c-96d9-68f06cf1fb8b",
+	"title": "Send tokens from one account to another one",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

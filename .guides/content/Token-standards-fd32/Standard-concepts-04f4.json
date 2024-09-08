@@ -1,0 +1,17 @@
+{
+	"id": "04f4dbb1-08a0-535f-8de4-3e99b2c771a7",
+	"title": "Standard concepts",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

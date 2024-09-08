@@ -1,0 +1,17 @@
+{
+	"id": "6903e61e-e713-fd42-7933-fcade7849b86",
+	"title": "Token standards and their purposes: ERC-20, ERC-721 (NFTs)",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

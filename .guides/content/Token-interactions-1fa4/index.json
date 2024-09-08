@@ -1,0 +1,12 @@
+{
+	"id": "1fa4f361-3277-fdae-eb19-59fa35681a55",
+	"type": "chapter",
+	"title": "Token interactions",
+	"order": [
+		"Add-a-popular-ERC-20-token-Link-USDC--to-the-MetaMask-wallet-on-a-testnet-3bdf",
+		"Get-tokens-in-a-faucet-a2a1",
+		"Send-tokens-from-one-account-to-another-one-d2e9",
+		"Get-an-NFT---mint-an-NFT-on-block-explorer-7c92",
+		"Interact-with-an-NFT-marketplace-on-a-testnet-c475"
+	]
+}

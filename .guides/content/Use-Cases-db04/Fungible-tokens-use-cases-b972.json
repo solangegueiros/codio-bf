@@ -1,0 +1,17 @@
+{
+	"id": "b972878c-611e-6e05-1b01-7c42127cfffd",
+	"title": "Fungible tokens use cases",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

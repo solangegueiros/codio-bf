@@ -1,0 +1,17 @@
+{
+	"id": "7c923495-ede0-05f7-dd89-8ebb7a6bcbfc",
+	"title": "Get an NFT - mint an NFT on block explorer",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
