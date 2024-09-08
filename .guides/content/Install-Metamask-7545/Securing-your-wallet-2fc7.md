@@ -3,7 +3,7 @@
 
 |||
 
-## Securing your wallet: best practices
+## Best practices
 
 ### Store your secret recovery phrase safely
 

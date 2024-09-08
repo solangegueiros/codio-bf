@@ -3,7 +3,11 @@
 	"type": "chapter",
 	"title": "Install Metamask",
 	"order": [
-		"Setting-up-MetaMask-fbae",
-		"Securing-your-wallet--best-practices-2fc7"
+		"Metamask-overview-fbae",
+		"Installation-b177",
+		"Create-a-new-wallet-4ec8",
+		"Create-a-password-for-MetaMask-b2f7",
+		"Save-your-mnemonic-ceee",
+		"Securing-your-wallet-2fc7"
 	]
 }

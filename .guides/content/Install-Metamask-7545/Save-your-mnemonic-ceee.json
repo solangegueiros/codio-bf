@@ -1,7 +1,12 @@
 {
-	"id": "e3c60e15-b450-9623-695a-7fb947698942",
-	"title": "Purpose and types in digital wallets",
-	"files": [],
+	"id": "ceeee2c7-4dd5-8580-fbe9-dc00aec201b0",
+	"title": "Save your mnemonic",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
 	"layout": "1-panel",
 	"path": [],
 	"type": "page",

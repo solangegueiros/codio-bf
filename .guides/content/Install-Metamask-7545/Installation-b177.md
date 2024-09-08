@@ -2,17 +2,10 @@
 # Install an Ethereum wallet
 
 ## Setting up MetaMask
-|||
-
-### Metamask overview
-
-MetaMask is a self-custodial wallet provider supporting transactions in Web3. It's how you interact with the blockchain from inside your web browser (including checking token balances in your account).
-
-Available as a browser extension and as a mobile app, MetaMask equips you with a key vault, secure login, token wallet, and token exchange—everything you need to manage your digital assets.
-
-[A crypto wallet & gateway to blockchain apps | MetaMask](https://metamask.io/)
 
 ### Installation
+|||
+
 
 To install MetaMask in your browser (using Chrome for the exercise), go to  
 [https://metamask.io/download/](https://metamask.io/download/) 
@@ -21,6 +14,7 @@ Select the option to download the browser extension
 
 ![Chrome Metamask Extension Highlighted](.guides/img/02/image1.png "Chrome Metamask Extension Highlighted")*Chrome Metamask Extension Highlighted*
 
+<br/>
 Click on "Install Metamask for Chrome".
 
 <figure>
