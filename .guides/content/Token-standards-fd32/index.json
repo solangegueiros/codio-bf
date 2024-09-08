@@ -4,7 +4,10 @@
 	"title": "Token standards",
 	"order": [
 		"Standard-concepts-04f4",
-		"Fungible-and-non-fungible-tokens-8c9a",
-		"Token-standards-and-their-purposes--ERC-20--ERC-721--NFTs--6903"
+		"Fungible-tokens-8c9a",
+		"Non-Fungible-Tokens--NFTs--32c3",
+		"Token-standards-and-their-purposes-6903",
+		"ERC-20-58d7",
+		"ERC-721--NFTs--e73d"
 	]
 }

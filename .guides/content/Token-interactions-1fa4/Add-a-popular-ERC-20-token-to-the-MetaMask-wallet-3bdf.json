@@ -1,0 +1,17 @@
+{
+	"id": "3bdf98dd-cf74-223a-6bfe-52804e62454b",
+	"title": "Add a popular ERC-20 token to the MetaMask wallet",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

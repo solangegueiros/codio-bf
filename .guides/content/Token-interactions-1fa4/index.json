@@ -3,10 +3,10 @@
 	"type": "chapter",
 	"title": "Token interactions",
 	"order": [
-		"Add-a-popular-ERC-20-token-Link-USDC--to-the-MetaMask-wallet-on-a-testnet-3bdf",
+		"Add-a-popular-ERC-20-token-to-the-MetaMask-wallet-3bdf",
 		"Get-tokens-in-a-faucet-a2a1",
 		"Send-tokens-from-one-account-to-another-one-d2e9",
-		"Get-an-NFT---mint-an-NFT-on-block-explorer-7c92",
+		"Get-an-NFT-7c92",
 		"Interact-with-an-NFT-marketplace-on-a-testnet-c475"
 	]
 }

@@ -3,8 +3,8 @@
 	"type": "chapter",
 	"title": "Token concepts",
 	"order": [
-		"Token-concepts-fe2a",
 		"What-is-tokenization-and-its-benefits-70a5",
-		"Why-tokenize-on-blockchain--c5ad"
+		"Why-tokenize-on-blockchain--c5ad",
+		"Asset-Tokenization-Examples-fe2a"
 	]
 }

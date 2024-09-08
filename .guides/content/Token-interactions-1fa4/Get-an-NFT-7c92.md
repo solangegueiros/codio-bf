@@ -1,9 +1,9 @@
 |||guidance
-
+## Get an NFT \- Mint an NFT Using A Block Explorer
 
 |||
 
-## Get an NFT \- Mint an NFT Using A Block Explorer
+## Mint an NFT Using A Block Explorer
 
 
 **Minting an NFT** means creating a unique token on a blockchain. The digital collectible is only stored on the blockchain after minting an NFT.   

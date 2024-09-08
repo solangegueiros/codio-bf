@@ -3,8 +3,6 @@
 
 |||
 
-## Interact With an NFT Marketplace on a Testnet
-
 
 Some decentralized marketplaces allow you to see NFT collections, buy, sell, trade, and see the NFTs you own. One of them is [OpenSea](https://opensea.io/).
 

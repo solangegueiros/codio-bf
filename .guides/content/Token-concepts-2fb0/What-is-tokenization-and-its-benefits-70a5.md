@@ -1,4 +1,6 @@
 |||guidance
+# Tokenization Concepts in Blockchain
+
 ## What Is Tokenization and What Are Its Benefits?
 
 |||

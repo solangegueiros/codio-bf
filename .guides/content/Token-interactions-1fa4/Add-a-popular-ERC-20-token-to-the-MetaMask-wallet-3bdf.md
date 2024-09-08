@@ -1,5 +1,5 @@
 |||guidance
-
+## Add a popular ERC-20 token(Link/USDC) to the MetaMask wallet on a testnet
 
 |||
 
@@ -9,7 +9,7 @@
 Make sure you have MetaMask installed on your browser or mobile device. The lesson “Wallets and Testnets” covers this.
 
 
-## Add a Popular ERC-20 token (LINK/USDC) to the MetaMask Wallet on a Testnet
+## Add a Popular ERC-20 token (LINK) to the MetaMask Wallet on a Testnet
 
 1. Open up MetaMask.
 

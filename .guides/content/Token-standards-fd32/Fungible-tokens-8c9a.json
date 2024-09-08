@@ -1,0 +1,17 @@
+{
+	"id": "8c9a2db2-d324-d34e-dead-42a4d6c2c8dd",
+	"title": "Fungible tokens",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
