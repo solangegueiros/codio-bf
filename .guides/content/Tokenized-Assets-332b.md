@@ -209,15 +209,15 @@ Make sure you have MetaMask installed on your browser or mobile device. The less
 
 1. Open up MetaMask.
 
-![][image1]
+![](.guides/img/04/image1.png)
 
 2. At the bottom window, click on the tab **“Tokens”.**
 
-**![][image2]**
+![](.guides/img/04/image2.png)
 
 3. Click **“+ Import tokens”**.
 
-![][image3]
+![](.guides/img/04/image3.png)
 
 4. Add the LINK token contract address on Sepolia:
 
@@ -226,17 +226,17 @@ See the [LINK Token Contracts](https://docs.chain.link/resources/link-token-cont
 
 5. Paste the token contract address into MetaMask in the Token contract address field. 
 
-![][image4]
+![](.guides/img/04/image4.png)
 
 6. The token symbol and decimals of precision will auto-populate. Click the “Next” button.
 
 7. Your balance for this token will appear in MetaMask. Click on “Import” to add this token to your MetaMask.
 
-![][image5]
+![](.guides/img/04/image5.png)
 
 8. Confirm that the token appears in the tab “Tokens”.
 
-![][image6]
+![](.guides/img/04/image6.png)
 
 ## Get Tokens in a Faucet
 
@@ -249,43 +249,43 @@ Review the “Chainlink Testnet Faucet” topic in the “Wallets and Testnets�
 
 1. **Access MetaMask:** Click the MetaMask extension icon in your browser or open the MetaMask mobile app.
 
-![][image7]
+![](.guides/img/04/image7.png)
 
 2. **Select the account:** Ensure you’re on the account to which you want to send tokens.
 
-![][image8]
+![](.guides/img/04/image8.png)
 
 3. **Navigate to the tokens tab:** In MetaMask, go to the "Tokens" tab to see the list of tokens available in your wallet.
 
-![][image9]
+![](.guides/img/04/image9.png)
 
 4. **Select the token:** Click on the specific token you want to send. We will use the LINK token in this lesson.
 
-![][image10]
+![](.guides/img/04/image10.png)
 
 5. **Click "Send"**: After selecting the token, click the "Send" button, which will prompt you to enter the recipient’s address.
 
-![][image11]
+![](.guides/img/04/image11.png)
 
 6. **Enter the recipient’s address:** Paste the account's wallet address to which you want to send the tokens. Double-check the address to ensure it’s correct, as blockchain transactions are irreversible.
 
-![][image12]
+![](.guides/img/04/image12.png)
 
 7. **Enter the amount:** Specify the number of tokens you wish to send. You can also choose to send the maximum amount by clicking "Use Max." Let’s send 5 LINK to the other wallet.
 
-![][image13]
+![](.guides/img/04/image13.png)
 
 8. **Review the transaction details:** Before finalizing, review all the transaction details, including the recipient's address, token amount, and gas fees.
 
-![][image14]
+![](.guides/img/04/image14.png)
 
 9. **Click "Confirm":** Once everything looks correct, click "Confirm" to initiate the transaction.
 
-![][image15]
+![](.guides/img/04/image15.png)
 
 10. **Wait for confirmation:** The transaction will be validated and included in a block. You can view the transaction status in the "Activity" tab in MetaMask. Depending on network congestion, it may take a few seconds to a few minutes.
 
-![][image16]
+![](.guides/img/04/image16.png)
 
 ## Get an NFT \- Mint an NFT Using A Block Explorer
 
@@ -301,12 +301,12 @@ This smart contract address is an NFT:
 Let's go to the Sepolia block explorer:  
 [https://sepolia.etherscan.io/address/0x35EfE940D1216D441f915C11725B7e4Dc089E23C](https://sepolia.etherscan.io/address/0x35EfE940D1216D441f915C11725B7e4Dc089E23C).
 
-![][image17]
+![](.guides/img/04/image17.png)
 
 Go to the “Contract” tab.  
 The smart contract was verified on Etherscan, which means that its source code was published, and you can interact with the NFT in the same way that you did with your first smart contract on Remix.
 
-![][image18]
+![](.guides/img/04/image18.png)
 
 ### Connecting Etherscan with Your Wallet
 
@@ -316,20 +316,20 @@ Over there, you can see all NFT functions that change the blockchain state throu
 
 Click on the button “Connect to web3”.
 
-![][image19]
+![](.guides/img/04/image19.png)
 
 Maybe you received a message related to a “beta version feature”. Click “ok” and don't worry about it because we are on testnet.
 
 Select MetaMask.  
-![][image20]  
+![](.guides/img/04/image20.png)  
 MetaMask will show a popup window asking permission to connect.
 
-| ![][image21] Click “Next”. | ![][image22] Click “Confirm”. |
+| ![](.guides/img/04/image21.png) Click “Next”. | ![](.guides/img/04/image22.png) Click “Confirm”. |
 | :---- | :---- |
 
 Now you can check it out that you are connected, with the green signal and the message “Connected \- Web3”
 
-![][image23]
+![](.guides/img/04/image23.png)
 
 ### Minting the NFT
 
@@ -339,18 +339,18 @@ Copy and paste your wallet address in the “to (address)”  field.
 
 Click on “Write”.
 
-![][image24]  
+![](.guides/img/04/image24.png)  
 MetaMask will prompt you to confirm the transaction.   
 Review the gas fees and click "Confirm".
 
-![][image25]
+![](.guides/img/04/image25.png)
 
 You can view the transaction on Sepolia Etherscan by clicking the button “View your transaction” like this:
 
-![][image26]
+![](.guides/img/04/image26.png)
 
 [https://sepolia.etherscan.io/tx/0x3bc2e02ab8fa603a1586dfa59bd939d901d168f2bfd04dd8cf8a5dfb0e3636c7](https://sepolia.etherscan.io/tx/0x3bc2e02ab8fa603a1586dfa59bd939d901d168f2bfd04dd8cf8a5dfb0e3636c7)  
-![][image27]
+![](.guides/img/04/image27.png)
 
 Congrats\! You minted your first NFT\!
 
@@ -372,22 +372,22 @@ Go to [https://testnets.opensea.io/](https://testnets.opensea.io/).
 
 Click on the “Login” button located at the top right corner.
 
-![][image28]
+![](.guides/img/04/image28.png)
 
 Select Metamask.
 
-![][image29]
+![](.guides/img/04/image29.png)
 
 MetaMask will show a popup window asking permission to connect.
 
-| ![][image30] Click “Next”. | ![][image31] Click “Confirm”. |
+| ![](.guides/img/04/image30.png) Click “Next”. | ![](.guides/img/04/image31.png) Click “Confirm”. |
 | :---- | :---- |
 
 Now, you have a signature request to accept the OpenSea Terms of Service ([https://opensea.io/tos](https://opensea.io/tos)) and Privacy Policy ([https://opensea.io/privacy](https://opensea.io/privacy)).
 
-![][image32]
+![](.guides/img/04/image32.png)
 
-![][image33]
+![](.guides/img/04/image33.png)
 
 On MetaMask, read the message. Scroll down until the end, and click “Confirm”.
 
@@ -397,7 +397,7 @@ This request will not trigger a blockchain transaction or cost gas fees.
 Profile icon: Once your wallet is connected, click on your profile icon in the top right corner (the icon may display your wallet address or a profile picture if you've set one up).  
 Profile page: You'll be taken to your profile page to see all the NFTs associated with the connected wallet.
 
-![][image34]
+![](.guides/img/04/image34.png)
 
 ### View Your NFTs
 
@@ -405,7 +405,7 @@ You'll see a section labeled "Collected" on your profile page.
 The section "Collected" displays all your NFTs in the connected wallet.   
 You can browse through your NFTs, which will be categorized by collection or project.
 
-![][image35]
+![](.guides/img/04/image35.png)
 
 You found your NFT\!
 
@@ -413,7 +413,7 @@ You found your NFT\!
 
 Click on the NFT to open a new page and see all details.
 
-![][image36]
+![](.guides/img/04/image36.png)
 
 # Identify Token Use Cases
 
