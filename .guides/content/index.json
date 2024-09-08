@@ -13,8 +13,12 @@
 	"hideBackToDashboard": false,
 	"protectLayout": true,
 	"order": [
-		"Introduction-to-Solidity-3bca",
-		"Tokenized-Assets-332b",
-		"Other-Blockchains-and-Oracles-f44f"
+		"Other-Blockchains-and-Oracles-f44f",
+		"EVM-Compatibility-2d5c",
+		"Layer-2s-and-Side-Chains-4036",
+		"Layer-2s-66cd",
+		"Side-Chains-and-Other-Options-7252",
+		"Blockchains-EVM-Compatible-e5be",
+		"Overview-of-Other-Popular-Blockchains-Besides-Ethereum-08f7"
 	]
 }

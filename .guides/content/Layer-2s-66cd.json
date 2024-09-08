@@ -1,0 +1,17 @@
+{
+	"id": "66cd46d9-15ac-247b-f80d-7ffcd8545c99",
+	"title": "Layer 2s",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

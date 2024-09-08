@@ -1,0 +1,17 @@
+{
+	"id": "e5be2c81-ede7-b6a6-78ce-f064eacfbd83",
+	"title": "Blockchains EVM Compatible",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

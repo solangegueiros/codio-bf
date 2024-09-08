@@ -1,0 +1,17 @@
+{
+	"id": "2d5c6f28-c89a-ff7e-1403-9d974293a78e",
+	"title": "EVM Compatibility",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

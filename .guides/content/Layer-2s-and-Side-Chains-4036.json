@@ -1,0 +1,17 @@
+{
+	"id": "4036df15-8699-27a0-28f4-14d9930268b7",
+	"title": "Layer 2s and Side Chains",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
