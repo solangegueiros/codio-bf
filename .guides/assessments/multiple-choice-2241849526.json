@@ -2,7 +2,7 @@
 	"type": "multiple-choice",
 	"taskId": "multiple-choice-2241849526",
 	"source": {
-		"name": "hash function 02",
+		"name": "Hash Function 02",
 		"showName": false,
 		"instructions": "Which of the following best describes a hash function?",
 		"multipleResponse": false,
@@ -83,5 +83,5 @@
 	},
 	"linkedId": "6cec9559-bdec-451f-a962-c49eca42096e",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 5
+	"version": 6
 }

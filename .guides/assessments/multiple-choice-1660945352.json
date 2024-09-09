@@ -2,7 +2,7 @@
 	"type": "multiple-choice",
 	"taskId": "multiple-choice-1660945352",
 	"source": {
-		"name": "blockchain structure 03",
+		"name": "Blockchain Structure 03",
 		"showName": false,
 		"instructions": "True or False: Each block in a Blockchain contains the hash of the next block in the chain.",
 		"multipleResponse": false,
@@ -73,5 +73,5 @@
 	},
 	"linkedId": "72e349fe-d966-4544-9ba1-6a9a90cb2825",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 4
+	"version": 6
 }
