@@ -1,4 +1,19 @@
 # Introduction to Blockchain and Ethereum
+
+{Check It!|assessment}(random-1502973338)
+
+{Check It!|assessment}(random-4211184034)
+
+{Check It!|assessment}(random-4149718604)
+
+{Check It!|assessment}(random-15497118)
+
+{Check It!|assessment}(random-2196662609)
+
+{Check It!|assessment}(random-528795132)
+
+{Check It!|assessment}(random-3609379280)
+
 14
 
 {Check It!|assessment}(random-319265797)
@@ -110,7 +125,6 @@
 {Check It!|assessment}(random-2787562476)
 
 {Check It!|assessment}(random-1454400984)
-
 
 {Check It!|assessment}(random-3078638050)
 
