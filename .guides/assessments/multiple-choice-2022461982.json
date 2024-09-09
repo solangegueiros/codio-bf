@@ -2,7 +2,7 @@
 	"type": "multiple-choice",
 	"taskId": "multiple-choice-2022461982",
 	"source": {
-		"name": "hash function 01",
+		"name": "Hash Function 01",
 		"showName": false,
 		"instructions": "Which of the following are characteristics of a hash function? Select all that apply.",
 		"multipleResponse": true,
@@ -88,5 +88,5 @@
 	},
 	"linkedId": "a7abfa31-b247-49a2-b445-656f1f92d807",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 6
+	"version": 7
 }

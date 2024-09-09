@@ -1,0 +1,17 @@
+{
+	"type": "random",
+	"taskId": "random-1007875396",
+	"source": {
+		"name": "All - Introduction to Blockchain and Ethereum 01",
+		"points": 1,
+		"useMaximumScore": false,
+		"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
+		"search": [
+			{
+				"name": "Lesson",
+				"value": "Introduction to Blockchain and Ethereum"
+			}
+		],
+		"libraryName": "SmartContract Assessments Library"
+	}
+}

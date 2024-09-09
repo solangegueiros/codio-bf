@@ -2,7 +2,7 @@
 	"type": "multiple-choice",
 	"taskId": "multiple-choice-2010477015",
 	"source": {
-		"name": "Template one correct answer",
+		"name": "Intro One correct answer Template",
 		"showName": false,
 		"instructions": "Question with one correct answer",
 		"multipleResponse": false,
@@ -42,7 +42,7 @@
 				},
 				{
 					"name": "Content",
-					"value": "Template"
+					"value": "BFT"
 				},
 				{
 					"name": "Programming Language",
@@ -50,7 +50,7 @@
 				},
 				{
 					"name": "Lesson",
-					"value": "Template"
+					"value": "Introduction to Blockchain and Ethereum"
 				},
 				{
 					"name": "Topic",
@@ -61,12 +61,12 @@
 					"value": "Easy"
 				},
 				{
-					"name": "Type",
-					"value": "one correct answer"
+					"name": "Exam",
+					"value": "SG"
 				},
 				{
-					"name": "Exam",
-					"value": "Template"
+					"name": "Type",
+					"value": "one correct answer"
 				}
 			],
 			"files": [],
@@ -77,5 +77,5 @@
 	},
 	"linkedId": "d80d3926-dcc8-42ba-9292-cf8dfd2585c8",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 6
+	"version": 4
 }

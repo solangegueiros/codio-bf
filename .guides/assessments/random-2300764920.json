@@ -1,0 +1,17 @@
+{
+	"type": "random",
+	"taskId": "random-2300764920",
+	"source": {
+		"name": "Interoperability",
+		"points": 1,
+		"useMaximumScore": false,
+		"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
+		"search": [
+			{
+				"name": "Topic",
+				"value": "Interoperability"
+			}
+		],
+		"libraryName": "SmartContract Assessments Library"
+	}
+}

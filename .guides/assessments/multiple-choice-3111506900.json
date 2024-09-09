@@ -2,7 +2,7 @@
 	"type": "multiple-choice",
 	"taskId": "multiple-choice-3111506900",
 	"source": {
-		"name": "Template multiple response",
+		"name": "Intro Multiple Response Template",
 		"showName": false,
 		"instructions": "Question with multiple response",
 		"multipleResponse": true,
@@ -42,7 +42,7 @@
 				},
 				{
 					"name": "Content",
-					"value": "Template"
+					"value": "BFT"
 				},
 				{
 					"name": "Programming Language",
@@ -50,7 +50,7 @@
 				},
 				{
 					"name": "Lesson",
-					"value": "Template"
+					"value": "Introduction to Blockchain and Ethereum"
 				},
 				{
 					"name": "Topic",
@@ -61,12 +61,12 @@
 					"value": "Intermediate"
 				},
 				{
-					"name": "Type",
-					"value": "multiple response"
+					"name": "Exam",
+					"value": "SG"
 				},
 				{
-					"name": "Exam",
-					"value": "Template"
+					"name": "Type",
+					"value": "multiple response"
 				}
 			],
 			"files": [],
@@ -77,5 +77,5 @@
 	},
 	"linkedId": "048df085-b21d-4547-873d-a205d0367b47",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 10
+	"version": 7
 }

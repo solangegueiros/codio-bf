@@ -1,0 +1,17 @@
+{
+	"type": "random",
+	"taskId": "random-3095611485",
+	"source": {
+		"name": "Other Blockchains and Oracles 01",
+		"points": 1,
+		"useMaximumScore": false,
+		"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
+		"search": [
+			{
+				"name": "Lesson",
+				"value": "Other Blockchains and Oracles"
+			}
+		],
+		"libraryName": "SmartContract Assessments Library"
+	}
+}

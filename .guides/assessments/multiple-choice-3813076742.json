@@ -2,7 +2,7 @@
 	"type": "multiple-choice",
 	"taskId": "multiple-choice-3813076742",
 	"source": {
-		"name": "blockchain 03",
+		"name": "Blockchain 03",
 		"showName": false,
 		"instructions": "Is the following statement true or false?\n\nOnce a transaction is recorded in a blockchain, it can be easily altered without affecting other blocks.",
 		"multipleResponse": false,
@@ -72,5 +72,5 @@
 	},
 	"linkedId": "2158e9bd-f0d9-4378-b0a9-358db5e02307",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 7
+	"version": 8
 }

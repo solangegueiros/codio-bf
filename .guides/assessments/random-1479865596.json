@@ -1,0 +1,17 @@
+{
+	"type": "random",
+	"taskId": "random-1479865596",
+	"source": {
+		"name": "Token use cases 02",
+		"points": 1,
+		"useMaximumScore": false,
+		"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
+		"search": [
+			{
+				"name": "Topic",
+				"value": "Token use cases"
+			}
+		],
+		"libraryName": "SmartContract Assessments Library"
+	}
+}
