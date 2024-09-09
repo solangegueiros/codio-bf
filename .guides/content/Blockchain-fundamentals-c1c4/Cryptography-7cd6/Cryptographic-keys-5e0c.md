@@ -28,3 +28,4 @@ Authentication:
 * The public key confirms the sender's identity, verifying that the private key holder sent the message
 
 WARNING: NEVER GIVE YOUR PRIVATE KEY AWAY. USERS CAN DECRYPT YOUR MESSAGES AND SIGN TRANSACTIONS IN YOUR NAME.
+

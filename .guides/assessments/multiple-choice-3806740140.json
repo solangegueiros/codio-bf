@@ -1,20 +1,20 @@
 {
 	"type": "multiple-choice",
-	"taskId": "multiple-choice-64159311",
+	"taskId": "multiple-choice-3806740140",
 	"source": {
-		"name": "Intro True or False Template",
+		"name": "Wallets and Testnets True or False Template",
 		"showName": false,
 		"instructions": "Question with one true / false response",
 		"multipleResponse": false,
 		"isRandomized": true,
 		"answers": [
 			{
-				"_id": "be2cb34c-7fe5-4295-f4b8-63e16dd7d34f",
+				"_id": "2b209ecd-3a8d-fd33-ab09-4aee023ad651",
 				"correct": true,
 				"answer": "True"
 			},
 			{
-				"_id": "7524d75e-0248-0137-9358-dab5d62f6e23",
+				"_id": "1dff612a-e9e9-c23a-5eef-7282c4ee16b0",
 				"correct": false,
 				"answer": "False"
 			}
@@ -45,7 +45,7 @@
 				},
 				{
 					"name": "Lesson",
-					"value": "Introduction to Blockchain and Ethereum"
+					"value": "Wallets and Testnets"
 				},
 				{
 					"name": "Topic",
@@ -69,8 +69,5 @@
 		},
 		"bloomsObjectiveLevel": "1",
 		"learningObjectives": "SWBAT "
-	},
-	"linkedId": "b98fd3af-557a-4f95-8d4e-fe950096be40",
-	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 2
+	}
 }

@@ -2,7 +2,7 @@
 	"type": "multiple-choice",
 	"taskId": "multiple-choice-2010477015",
 	"source": {
-		"name": "Template one correct answer",
+		"name": "Intro One correct answer Template",
 		"showName": false,
 		"instructions": "Question with one correct answer",
 		"multipleResponse": false,

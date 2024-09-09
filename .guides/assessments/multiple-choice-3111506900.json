@@ -2,7 +2,7 @@
 	"type": "multiple-choice",
 	"taskId": "multiple-choice-3111506900",
 	"source": {
-		"name": "Template multiple response",
+		"name": "Intro Multiple Response Template",
 		"showName": false,
 		"instructions": "Question with multiple response",
 		"multipleResponse": true,
