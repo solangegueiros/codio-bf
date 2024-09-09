@@ -1,0 +1,17 @@
+{
+	"id": "b0ca31e5-2a6c-545c-a1d6-11aa085fc4d9",
+	"title": "Final Exam Random - Chainlink VRF",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

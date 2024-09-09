@@ -1,0 +1,17 @@
+{
+	"id": "1bcac959-4857-a28d-aca9-fd9b2509c68b",
+	"title": "Final Exam Random - Block Explorers",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

@@ -1,0 +1,17 @@
+{
+	"id": "3b6327e3-4bec-a16f-0dd6-920a59434cd9",
+	"title": "Final Exam Random - Chainlink 02",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

@@ -1,0 +1,17 @@
+{
+	"id": "677c36f4-bd7e-8baa-b340-89efa084c186",
+	"title": "Final Exam Random - Interoperability Use Cases 01",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

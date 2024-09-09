@@ -1,0 +1,17 @@
+{
+	"id": "4c34a9f3-17ca-c898-0959-9f781f541d59",
+	"title": "Final Exam Random - EVM Compatibility",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

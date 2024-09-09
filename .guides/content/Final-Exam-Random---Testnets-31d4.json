@@ -1,0 +1,17 @@
+{
+	"id": "31d44e47-3e2e-a00b-8f55-d4529556e0fe",
+	"title": "Final Exam Random - Testnets",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

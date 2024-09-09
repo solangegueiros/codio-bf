@@ -1,0 +1,17 @@
+{
+	"id": "100d5d56-8752-65e2-e6f1-ca8b4e566afb",
+	"title": "Final Exam Random - Layer2 01",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

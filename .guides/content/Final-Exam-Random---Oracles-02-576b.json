@@ -1,0 +1,17 @@
+{
+	"id": "576bbeba-69f8-875e-989c-098402d9c364",
+	"title": "Final Exam Random - Oracles 02",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

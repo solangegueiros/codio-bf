@@ -1,0 +1,17 @@
+{
+	"id": "60f0389f-3551-0dfb-d8dd-3fc7790c1fc8",
+	"title": "Final Exam Random - Token use cases 01",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

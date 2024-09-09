@@ -1,0 +1,17 @@
+{
+	"id": "e598b8b4-a52d-4c2c-d3fa-5bc2d519e8e7",
+	"title": "Final Exam Random - Faucets",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

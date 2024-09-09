@@ -1,0 +1,17 @@
+{
+	"id": "cd4f3222-d6d4-1c0c-087b-a20f3cb4a0cc",
+	"title": "Final Exam Random - Wallet security 02",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

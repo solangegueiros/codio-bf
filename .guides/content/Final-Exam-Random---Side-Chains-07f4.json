@@ -1,0 +1,17 @@
+{
+	"id": "07f4ea93-c4de-ea13-626e-87f54b50e03c",
+	"title": "Final Exam Random - Side Chains",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

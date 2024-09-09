@@ -1,0 +1,17 @@
+{
+	"id": "b50340aa-a2f1-40d1-7177-13be63bd10f2",
+	"title": "Final Exam Random - Digital Wallets 02",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

@@ -1,0 +1,17 @@
+{
+	"id": "285010a3-ce8c-b0b8-ddd9-09e5abc22327",
+	"title": "Final Exam Random - Chainlink Automation",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

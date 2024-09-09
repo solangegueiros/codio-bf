@@ -1,0 +1,17 @@
+{
+	"id": "638c159f-17df-6a24-6d76-470e20122eee",
+	"title": "Final Exam Random - Interoperability",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

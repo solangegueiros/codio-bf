@@ -1,0 +1,17 @@
+{
+	"id": "709e2451-8cb4-617d-b2e4-24a093e32ca9",
+	"title": "Final Exam Random - Chainlink Data Feeds",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

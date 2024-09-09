@@ -1,0 +1,17 @@
+{
+	"id": "d4c2b9c7-2b48-1124-962e-3c3849dff12c",
+	"title": "Final Exam Random - Token standards 02",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

@@ -1,0 +1,17 @@
+{
+	"id": "8621a060-8226-0d1f-ac4d-8a4087ce3a8a",
+	"title": "Final Exam Random - Chainlink CCIP 01",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

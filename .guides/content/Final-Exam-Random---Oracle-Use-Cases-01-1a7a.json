@@ -1,0 +1,17 @@
+{
+	"id": "1a7ab0a2-287c-1a15-ce54-f153b846f628",
+	"title": "Final Exam Random - Oracle Use Cases 01",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

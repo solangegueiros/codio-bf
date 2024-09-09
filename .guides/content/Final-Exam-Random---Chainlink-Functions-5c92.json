@@ -1,0 +1,17 @@
+{
+	"id": "5c929951-8d70-5582-e9a2-11e4c7e8ad54",
+	"title": "Final Exam Random - Chainlink Functions",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
