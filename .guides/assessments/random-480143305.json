@@ -1,0 +1,21 @@
+{
+	"type": "random",
+	"taskId": "random-480143305",
+	"source": {
+		"name": "Chainlink CCIP 01",
+		"points": 1,
+		"useMaximumScore": false,
+		"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
+		"search": [
+			{
+				"name": "Content",
+				"value": "BTF"
+			},
+			{
+				"name": "Topic",
+				"value": "Chainlink CCIP"
+			}
+		],
+		"libraryName": "SmartContract Assessments Library"
+	}
+}

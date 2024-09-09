@@ -1,0 +1,17 @@
+{
+	"type": "random",
+	"taskId": "random-3256788911",
+	"source": {
+		"name": "Layer2 01",
+		"points": 1,
+		"useMaximumScore": false,
+		"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
+		"search": [
+			{
+				"name": "Topic",
+				"value": "Layer2"
+			}
+		],
+		"libraryName": "SmartContract Assessments Library"
+	}
+}

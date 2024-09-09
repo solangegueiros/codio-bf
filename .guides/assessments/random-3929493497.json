@@ -1,0 +1,17 @@
+{
+	"type": "random",
+	"taskId": "random-3929493497",
+	"source": {
+		"name": "All - Wallets and Testnets 03",
+		"points": 1,
+		"useMaximumScore": false,
+		"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
+		"search": [
+			{
+				"name": "Lesson",
+				"value": "Wallets and Testnets"
+			}
+		],
+		"libraryName": "SmartContract Assessments Library"
+	}
+}

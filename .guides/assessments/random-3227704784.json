@@ -1,0 +1,17 @@
+{
+	"type": "random",
+	"taskId": "random-3227704784",
+	"source": {
+		"name": "Side Chains",
+		"points": 1,
+		"useMaximumScore": false,
+		"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
+		"search": [
+			{
+				"name": "Topic",
+				"value": "Side Chain"
+			}
+		],
+		"libraryName": "SmartContract Assessments Library"
+	}
+}

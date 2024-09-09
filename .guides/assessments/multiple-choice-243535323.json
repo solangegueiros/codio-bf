@@ -64,7 +64,7 @@
 				},
 				{
 					"name": "Topic",
-					"value": "Layer 2s"
+					"value": "Layer2"
 				},
 				{
 					"name": "Level",
@@ -87,5 +87,5 @@
 	},
 	"linkedId": "2f052e74-d449-4967-a56a-f03ab49e9c84",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 0
+	"version": 1
 }
