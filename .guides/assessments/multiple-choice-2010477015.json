@@ -42,7 +42,7 @@
 				},
 				{
 					"name": "Content",
-					"value": "BFT"
+					"value": "Template"
 				},
 				{
 					"name": "Programming Language",
@@ -50,7 +50,7 @@
 				},
 				{
 					"name": "Lesson",
-					"value": "Introduction to Blockchain and Ethereum"
+					"value": "Template"
 				},
 				{
 					"name": "Topic",
@@ -61,12 +61,12 @@
 					"value": "Easy"
 				},
 				{
-					"name": "Exam",
-					"value": "SG"
-				},
-				{
 					"name": "Type",
 					"value": "one correct answer"
+				},
+				{
+					"name": "Exam",
+					"value": "Template"
 				}
 			],
 			"files": [],
@@ -77,5 +77,5 @@
 	},
 	"linkedId": "d80d3926-dcc8-42ba-9292-cf8dfd2585c8",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 4
+	"version": 6
 }

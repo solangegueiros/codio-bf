@@ -37,7 +37,7 @@
 				},
 				{
 					"name": "Content",
-					"value": "BFT"
+					"value": "Template"
 				},
 				{
 					"name": "Programming Language",
@@ -45,7 +45,7 @@
 				},
 				{
 					"name": "Lesson",
-					"value": "Introduction to Blockchain and Ethereum"
+					"value": "Template"
 				},
 				{
 					"name": "Topic",
@@ -72,5 +72,5 @@
 	},
 	"linkedId": "b98fd3af-557a-4f95-8d4e-fe950096be40",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 2
+	"version": 3
 }
