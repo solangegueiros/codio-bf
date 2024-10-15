@@ -36,7 +36,8 @@
 		],
 		"guidance": "A blockchain is indeed a distributed ledger where blocks are linked using cryptographic hashes. Each block contains a timestamp, and the data within blocks cannot be easily altered retroactively without changing all subsequent blocks. This makes blockchain transactions irreversible, contrary to the last option.",
 		"showGuidanceAfterResponseOption": {
-			"type": "Never"
+			"type": "Attempts",
+			"passedFrom": 1
 		},
 		"maxAttemptsCount": 1,
 		"showExpectedAnswer": false,
@@ -83,5 +84,5 @@
 	},
 	"linkedId": "8b247c6f-5073-4905-bacb-bf6aa16e2f34",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 13
+	"version": 14
 }

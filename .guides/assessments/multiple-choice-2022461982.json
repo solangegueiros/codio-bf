@@ -36,8 +36,7 @@
 		],
 		"guidance": "Hash functions are characterized by being deterministic (same input always produces same output), fast to compute, and collision resistant. They are designed to be one-way functions, meaning they are not reversible. While some hash functions support variable-length output, typically they map data to fixed-size values.",
 		"showGuidanceAfterResponseOption": {
-			"type": "Attempts",
-			"passedFrom": 1
+			"type": "Never"
 		},
 		"maxAttemptsCount": 1,
 		"showExpectedAnswer": false,
@@ -88,5 +87,5 @@
 	},
 	"linkedId": "a7abfa31-b247-49a2-b445-656f1f92d807",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 7
+	"version": 8
 }

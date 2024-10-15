@@ -31,8 +31,7 @@
 		],
 		"guidance": "A hash function is an algorithm that maps variable-length data to fixed-length data. This is its primary characteristic and function. It does not specifically work with prime numbers, is not used for file compression, and does not sort data. The key feature of a hash function is its ability to take input of any size and produce a fixed-size output, which is useful for indexing and quickly finding items in a data structure.",
 		"showGuidanceAfterResponseOption": {
-			"type": "Attempts",
-			"passedFrom": 1
+			"type": "Never"
 		},
 		"maxAttemptsCount": 1,
 		"showExpectedAnswer": true,
@@ -83,5 +82,5 @@
 	},
 	"linkedId": "6cec9559-bdec-451f-a962-c49eca42096e",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 6
+	"version": 7
 }

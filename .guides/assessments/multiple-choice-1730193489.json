@@ -4,34 +4,35 @@
 	"source": {
 		"name": "Blockchain 01",
 		"showName": false,
-		"instructions": "What characteristic is true when we define Blockchain?",
+		"instructions": "What is the definition of Blockchain?",
 		"multipleResponse": false,
 		"isRandomized": true,
 		"answers": [
 			{
-				"_id": "ca85f320-cb97-91cf-b727-1a5f2e4b3151",
+				"_id": "22d82efb-342c-9a97-b0e6-75831616fe35",
 				"correct": false,
 				"answer": "A centralized database managed by a single entity"
 			},
 			{
-				"_id": "5997f6c8-ae53-8d94-d0c2-f50431efeda2",
+				"_id": "a2103ba5-2946-4b12-59dd-4cdca0acd290",
 				"correct": true,
 				"answer": "A blockchain is a decentralized and distributed database that maintains a continuously growing list of ordered records, called blocks"
 			},
 			{
-				"_id": "c3a9462f-9d04-8fa9-3fdd-5845524eb7e7",
+				"_id": "d393a552-d70d-6d5a-e8b2-d678507795a6",
 				"correct": false,
 				"answer": "A type of cryptocurrency"
 			},
 			{
-				"_id": "5ab63e8b-848b-170b-b6d3-01bb986a2d22",
+				"_id": "4aa4414a-e36a-7138-54a2-80101dd647f6",
 				"correct": false,
 				"answer": "A programming language used for smart contracts"
 			}
 		],
 		"guidance": "",
 		"showGuidanceAfterResponseOption": {
-			"type": "Never"
+			"type": "Attempts",
+			"passedFrom": 1
 		},
 		"maxAttemptsCount": 1,
 		"showExpectedAnswer": false,
@@ -50,20 +51,20 @@
 					"value": "BTF"
 				},
 				{
-					"name": "Level",
-					"value": "Easy"
-				},
-				{
-					"name": "Programming Language",
-					"value": "None"
+					"name": "Exam",
+					"value": "SG"
 				},
 				{
 					"name": "Lesson",
 					"value": "Introduction to Blockchain and Ethereum"
 				},
 				{
-					"name": "Exam",
-					"value": "SG"
+					"name": "Level",
+					"value": "Easy"
+				},
+				{
+					"name": "Programming Language",
+					"value": "None"
 				},
 				{
 					"name": "Topic",
@@ -82,5 +83,5 @@
 	},
 	"linkedId": "a38543ba-8657-4a99-9641-b4e394b666a2",
 	"libraryId": "3b61def1-4a5c-4d46-b6a5-3ac64cf98050",
-	"version": 10
+	"version": 12
 }
